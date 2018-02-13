@@ -1,5 +1,5 @@
 \documentclass{book}
-\usepackage [
+\usepackage[
 	paperwidth=17cm,
 	paperheight=24cm,
 	% other options
@@ -14,12 +14,11 @@
 
 % dedication at the beginning of the book
 \newenvironment{dedication} {
-	\cleardoublepage
-	\thispagestyle{empty}
+	\cleardoublepage\thispagestyle{empty}
 	\vspace*{\stretch{1}}
 	\hfill\begin{minipage}[t]{0.66\textwidth}
-	\raggedright
-} {
+	\raggedright}
+{
 	\end{minipage}
 	\vspace*{\stretch{3}}
 	\clearpage
@@ -30,21 +29,20 @@
 \newenvironment{chapquote}[2][2em] {
 	\setlength{\@tempdima}{#1}
 	\def\chapquote@author{#2}
-	\parshape 1 \@tempdima \dimexpr\textwidth-2\@tempdima\relax%
-	\itshape
-} {
-	\par\normalfont\hfill--\ \chapquote@author\hspace*{\@tempdima}\par\bigskip
+	\parshape1\@tempdima\dimexpr\textwidth-2\@tempdima\relax}
+{
+\par\normalfont\hfill--\ \chapquote@author\hspace*{\@tempdima}\par\bigskip
 }
 \makeatother
 
 % first page stuff
-\title {
+\title{
 	\Huge \textbf{Il Senno di Poi}
 	\\
-	\huge Fatti venire in mente un sottotitolo...
+	\huge Fatti venire in mente un sottotitolo
 }
 \author{
-	\textsc{Simone Cipriani}
+	\textsc{Simone Cipriani }
 	\thanks{aiutato da Sara Carusi, che ha gentilmente contribuito alla formazione della trama e dell'intreccio grazie alla sua esperienza da lettrice // FALLO MEGLIO }
 }
 
@@ -57,9 +55,7 @@
 Dedicated to Calvin and Hobbes.
 \end{dedication}
 
-\mainmatter
-
-\chapter*{Preface}
+\mainmatter\chapter*{Preface}
 
 Say something nice
 
