@@ -4,7 +4,7 @@ Zero edition of my amazing book, edited and corrected by myself for private prin
 
 You **can**:
 * obviously, read it
-* print it for your reading confort
+* print it for your reading comfort
 
 You **shall**:
 * suggest it to your reader friends/relatives/whatever
@@ -15,4 +15,4 @@ You **shall NOT**:
 
 Understood? __All other rights are reserved__ - *IT'S MINE, YOU FOOLS!*
 
-Have fun, or bore yoyrself!
+Have fun, or bore yourself!
