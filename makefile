@@ -3,7 +3,6 @@ TEX = pdflatex -shell-escape -interaction=nonstopmode -file-line-error
 book:
 	$(TEX) main.tex
 
-
 .PHONY: clean
 
 clean:
