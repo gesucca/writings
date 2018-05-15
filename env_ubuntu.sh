@@ -1,4 +1,4 @@
 #!/bin/sh
 
-sudo apt install texlive texlive-lang-italian -y
+sudo apt install texlive texlive-lang-italian chktex -y
 
