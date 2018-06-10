@@ -1,12 +1,10 @@
 # Writings
 
-Miscellaneous writings of mine.
-
-If you are lucky, you will find a more detailed readme into the subfolder of your interest.
+Miscellaneous writings of mine. If you are lucky, you will find a more detailed readme into the subfolder of your interest.
 
 This repo has no license. You can look around and "inspire" yourself as much as you please, but...
 
-# EVERYTHING HERE IS MINE.
+# EVERYTHING HERE IS MINE
 
 Got it?
 
