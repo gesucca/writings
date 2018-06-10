@@ -1,0 +1,101 @@
+\documentclass[11pt]{book}
+\usepackage[
+	paperwidth=17cm,
+	paperheight=24cm,
+	% other options
+] {geometry}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+\usepackage{baskervald}
+
+% dedication at the beginning of the book
+\newenvironment{dedication} {
+	\cleardoublepage\thispagestyle{empty}
+	\vspace*{\stretch{1}}
+	\hfill\begin{minipage}[t]{0.66\textwidth}
+	\raggedright}
+{
+	\end{minipage}
+	\vspace*{\stretch{3}}
+	\clearpage
+}
+
+% quote at the beginning of the chapter
+\makeatletter
+\newenvironment{chapquote}[2][2em] {
+	\setlength{\@tempdima}{#1}
+	\def\chapquote@author{#2}
+	\parshape1\@tempdima\dimexpr\textwidth-2\@tempdima\relax}
+{
+\par\normalfont\hfill--\ \chapquote@author\hspace*{\@tempdima}\par\bigskip
+}
+\makeatother
+
+% first page stuff
+\title{
+	\Huge \textbf{Il Senno di Poi}
+}
+\author{
+	\textsc{\textbf{Simone Cipriani}, in arte \textit{gesucca}}
+}
+
+\begin{document}
+
+\frontmatter
+\maketitle
+\begin{dedication}
+	A Sara, impavida esploratrice dei più squallidi meandri del multiverso letterario, dedico questo sollievo da tanta schifezza.
+\end{dedication}
+
+\mainmatter\chapter*{Preface}
+
+Say something nice.
+
+\section*{Ringraziamenti}
+
+Prima di mettermi a snocciolare nomi di gente della quale non ti importa niente, ci tenevo a farti sapere che il mio ringraziamento più grande va proprio a te, lettore o lettrice. Spero di essere stato in grado di produrre un qualcosa che ti possa far considerare ben speso il tempo che impiegherai a fruirne. In questo libro ho riversato molti aspetti di me: idee, paure, emozioni, semplici sensazioni. Sono grato che tu mi abbia permesso di condividerli con te. \\
+
+Ma lasciamo perdere le smancerie e passiamo al sodo. Sono senz'altro degni di nota i contributi di due persone:
+
+\begin{itemize}
+	\item \textbf{Sara Carusi}, ad oggi mia fidanzata, che si è prestata ad una continua discussione costruttiva favorendo lo sviluppo della trama.
+	\item \textbf{Silvia Fontanelli}, mia madre, che ha pazientemente letto e riletto tutta l'opera in cerca di errori, nonostante ne fosse palesemente disgustata.
+\end{itemize}
+
+Inoltre, mi sento in dovere di ringraziare anche chi ha passivamente foraggiato la mia ispirazione per la creazione dei personaggi:
+
+\begin{itemize}
+	\item \textbf{Lorenzo Gianassi}, mio storico e caro amico, la cui figura è stata una solida base da cui sviluppare il personaggio di \textit{Bruno Bagonghi}.
+	\item \textbf{Lorenzo Lucchetti}, eccetera eccetera
+\end{itemize}
+
+\newpage
+\tableofcontents
+\newpage
+
+% now the beef
+\include{ch/01}
+\include{ch/02}
+\include{ch/03}
+\include{ch/04}
+\include{ch/05}
+\include{ch/06}
+\include{ch/07}
+\include{ch/08}
+\include{ch/09}
+\include{ch/10}
+\include{ch/11}
+\include{ch/12}
+\include{ch/13}
+\include{ch/14}
+\include{ch/15}
+\include{ch/16}
+\include{ch/17}
+\include{ch/18}
+\include{ch/19}
+\include{ch/20}
+\include{ch/21}
+
+\end{document}
