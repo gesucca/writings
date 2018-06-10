@@ -2,8 +2,14 @@
 
 Miscellaneous writings of mine. If you are lucky, you will find a more detailed readme into the subfolder of your interest.
 
-This repo has no license. You can look around and "inspire" yourself as much as you please, but **EVERYTHING HERE IS MINE**. Got it?
+This repo has no license. You can look around and "inspire" yourself as much as you please, but **EVERYTHING HERE IS MINE**.
 
-[Directly from a GitHub help page](https://help.github.com/articles/licensing-a-repository/):
+Got it?
 
-[...] the default copyright laws apply, meaning that you retain all rights to your source code and *no one may reproduce, distribute, or create derivative works from your work*.
+[Directly from a GitHub help page](https://help.github.com/articles/licensing-a-repository/): [...] the default copyright laws apply, meaning that you retain all rights to your source code and *no one may reproduce, distribute, or create derivative works from your work*.
+
+**What's inside**?
+* articles and pages written for [my blog](https://gesuccascrittore.wordpress.com/)
+* latex sources of my book "Il Senno di Poi"
+
+Have fun looking behind the curtain!
