@@ -10,4 +10,3 @@ clean:
 	rm *.out
 	rm ch/*.aux
 	rm *.pdf
-
