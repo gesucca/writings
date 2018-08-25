@@ -1,0 +1,35 @@
+aaaSiamo tutti presi dalle nostre cose, tutti così rincoglioniti da quello che ci attira, che ci accende...
+
+E se ad accenderci fossero delle cazzate?
+
+Eh già.
+
+Oggi ho comprato un coso da novanta euro - novanta Mc Toast da un euro, giusto per rendersi conto della situazione. Insomma, ho comprato questo trabiccolo che è incredibile: è grande tanto quanto il mio pollice, ha una quantità assurda di memoria e una velocità di accesso assurdamente alta. E, per assurdo (e tre!), non mi serve a un accidente.
+
+Il computer fisso dove l'ho montato - proprio quello da cui sto scrivendo - lo uso si e no un'oretta al giorno, ad esempio per guardare video di dubbia moralità o per giocare a giochi ottenuti in modo assolutamente legale. Su questa macchina ho già un classico SSD su cui ho già installato un ancor più classico dual boot fra Windows 7 e Ubuntu. Funziona tutto alla perfezione, è un PC di fascia media ma totalmente adeguato alle mie necessità - internet, scrittura, gaming casuale e produzione musicale.
+
+Quindi... che diavolo me ne faccio di un SSD M.2 megaveloce?
+
+Un cazzo. Semplicemente lo volevo.
+
+Dio, quanti moccoli che mi ha fatto tirare quell'ammennicolo. Montarlo dovrebbe essere una cazzata, lo infili e stringi una vite tutto qua. Già, una vite. Vi pare che Samsung si sia degnata di mettercela nella confezione gigante che conteneva quel cosetto? Macché. C'era un bellissimo manuale che mi spiega come usare Samsung Magic Qualcosa che - no, grazie, ho il pollice opponibile e, se mai volessi clonare il disco, so usare dd. E allora via, a rovistare nel torbido del garage per trovare qualcosa da smontare, qualunque oggetto che possedesse una cazzo di vite minuscola e qualcosa che facesse da spessore - già, perché quel coso si monta a sbalzo, ma che idea geniale!
+
+E ora sono qui a scaricare una copia incontrovertibilmente legale di Windows 10 e a leggere l'ArchWiki per capire come diavolo fare un dual boot con Arch Linux, per poi impostare il grub sull'SSD strafigo in modo da permettermi di bootare anche il MBR dell'altro SSD, realizzando quindi una sorta di malvagio quadri-boot che mi sta facendo venire un mal di testa incredibile solo a parlarne.
+
+Ma perché?
+
+    Perchééé???
+
+Forza, dillo. Dillo. Lo so che lo stai pensando, e continuerò a saperlo fintanto che tu continuerai a pensarlo. E tu continuerai a pensarlo finché non lo avrai detto, perciò... forza, parla.
+
+Perché sto facendo tutto questo?
+
+Perché sei stupido, ecco perché.
+
+Già. Non posso nemmeno dire che tu abbia torto. Che ci posso fare se intrespolare con dei gingilli tecnopornologici me lo fa venire duro? Che colpa ne ho, se l'idea di piegare un boot loader al mio volere mi irrora i corpi cavernosi di libidinoso succo sanguigno? Che male c'è, se -
+
+Basta, per carità. Ho capito.
+
+Molto bene. Allora, pare che ci siamo già detti tutto. Con permesso, torno alla mia tecnomasturbazione informatica, dato quella elettronica e meccanica per oggi hanno già esaurito il loro potere.
+
+A presto.
