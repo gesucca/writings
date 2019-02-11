@@ -20,5 +20,6 @@ Quando finalmente riuscì a liberare i suoi pensieri dal pericoloso percorso cir
 
 Dopo qualche altro momento di lisergica catatonia, Fabio si accorse che la tomba sulla quale si era era casualmente inginocchiato era quella del suo amico Bagonghi. Una fitta di disagio si materializzò in lui nell'osservare l'epitaffio elegantemente inciso nel marmo; sentì come una vaga sensazione di confusione, come se si stesse perdendo qualcosa. "Se non fosse morto, sarebbe ancora in vita", recitava la scritta. Se uno la leggeva *attentamente*... l'implicazione non era doppia: quella frase non diceva niente riguardo al caso in cui Bruno *fosse* morto. Fabio sospirò, scrivendo mentalmente un gigantesco "Sì" in un documento immaginario che gli chiedeva se avesse delle malattie mentali.
 
-accende sigarette, accendino da buttare
-sigaro eccetera
+Meccanicamente, senza pensare, Fabio fece per accendersi una sigaretta. L'accendino fallì; evidentemente, una nottata all'umido non aveva fatto bene al fuoco tascabile, oltre che alla sue ossa.
+
+""Vienimi a trovare e fuma un sigaro con me. Occhio, un toscano dei miei, non uno qualsiasi! A qualunque costo, non importa cosa tu debba fare per riuscirci.""
