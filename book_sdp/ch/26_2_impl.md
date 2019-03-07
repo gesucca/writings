@@ -16,4 +16,12 @@ La figura sorrise? <Non hai paura di me?>
 
 <Perché dovrei? Se sei un'allucinazione, mettiti pure là con le altre; vuoi farmi credere di essere un fantasma, o uno spirito? Sono pazzo, mica scemo. E se sei davvero una persona... beh, se tu avessi voluto farmi del male l'avresti fatto e basta, non mi avresti offerto del fuoco --- che, tra l'altro, sto ancora aspetttando.>
 
-La figura rise. La sua risata aveva un che di familiare. Senza dire altro, gli lanciò l'accendino
+La figura rise. La sua risata aveva un che di familiare. Senza dire altro, gli lanciò l'accendino.
+
+
+**qualcoas sulla profezia, è stato Fabio a designare come suo eguale il Gazzi)
+
+I due fumano un sigaro insieme, e hanno una conversazione molto vaga
+Il becchino fa leva sui sentimenti negativi di Fabio per aizzare il suo odio verso il Gazzi e Lavinia, colpevoli di averlo fatto stare male
+Il becchino se ne va, Vittoria e Denise si riprendono; è quasi l'alba, primi chiarori
+I tre parlano di come si fa ad essere sé stessi, e di come alla fine, l'unica via per essere felici è di accettare il dolore e fare ciò che è giusto, a prescindere dal costo
