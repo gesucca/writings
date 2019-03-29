@@ -96,7 +96,11 @@ L'uomo esitò un attimo, poi riprese:
 
 Il respiro di Fabio si interruppe.
 
-<Ah, vedo che ricordi ancora il nome della tua fidanzata>, proseguì l'uomo. <Quindi, se mai decidessi che in fondo non c'è niente di male ad avere la tu ameritata vendetta... beh, non sono affari miei, ma credo che dovresti dirigerla verso di questo Gazzi.>
+<Ah, vedo che ricordi ancora il nome della tua fidanzata>, proseguì l'uomo. <Insomma, mi sono stati raccontati vari retroscena che non sono stati scritti sui giornali. Pare che lei se la facesse con un certo Giacomo Gazzi, il quale ha messo in moto diversi eventi >
+
+Fabio continuò ad ascoltare, pietrificato.
+
+L'uomo fece una pausa, prendendo solennemente una boccata di fumo. <Quindi>, annunciò con tono definitivo, <se mai decidessi che in fondo non c'è niente di male ad avere la tu ameritata vendetta... beh, non sono affari miei, ma credo che dovresti dirigerla verso di questo Gazzi.>
 
 tizio seminascosto in una nuvola di fumo profumato
 
