@@ -1,6 +1,7 @@
+// c'è troppe volte la parola credere
 <Allora?> incalzò la figura. Era un uomo alto, dalla folta barba scura, parte del volto nascosta dal cappuccio di un enorme impermeabile.
 
-<Boh, credo di sì>, fece Fabio spassionatamente, parlando con fatica; la droga e la nottata all'umido avevano reso la sua voce era roca ed impastata. <Anche se, a essere sincero, non ne sono più così sicuro quanto prima. Vuoi che ti annoi con qualche sega mentale sul concetto stesso di realtà? Là c'è una ragazza che ti può aiutare.>
+<Boh, credo di sì>, fece Fabio spassionatamente, parlando con fatica; la droga e la nottata all'umido avevano reso la sua voce era roca ed impastata. <Anche se, a essere sincero, non ne sono più così sicuro quanto prima. Vuoi essere annoiato con qualche sega mentale sul concetto stesso di realtà? Là c'è una ragazza che ti può aiutare.>
 
 La figura rise. <Credici o no, ho già avuto notizia delle tue compagnie. Sembra tu sia beato tra le donne, almeno stasera.>
 
@@ -16,7 +17,7 @@ Fabio sospirò stancamente. <Sospetto che tu ti stia divertendo a prendermi per 
 
 Il cappuccio di quel tizio lasciò intravedere un sorriso. <Non hai paura di me?>
 
-Stavolta fu Fabio a ridere. <Perché dovrei? Se sei un'allucinazione, mettiti pure là con le altre; vuoi farmi credere di essere un fantasma, o uno spirito? Sono pazzo, mica scemo. E se sei davvero una persona... beh, se tu avessi voluto farmi del male l'avresti fatto e basta, non mi avresti offerto del fuoco --- che, tra l'altro, sto ancora aspetttando.>
+Stavolta fu Fabio a ridere. <Perché dovrei? Se sei un'allucinazione, mettiti pure là con le altre. Vuoi farmi credere di essere un fantasma, o uno spirito? Sono pazzo, mica scemo. E se sei davvero una persona... beh, se tu avessi voluto farmi del male l'avresti fatto e basta, non mi avresti offerto del fuoco --- che, tra l'altro, sto ancora aspetttando.>
 
 Senza dire niente, l'uomo incappucciato gli lanciò un'accendino.
 
@@ -28,7 +29,7 @@ L'uomo misterioso ridacchiò. Un po' goffamente, si mise a sedere per terra acca
 
 <Che fine ha fatto?> domandò l'altro, accendendo il sigaro a sua volta.
 
-<Ci siamo seduti sopra>, fece Fabio, amaramente. <Fa un po' cliché, vero?>
+<Siamo seduti sulla sua tomba>, fece Fabio, amaramente. <Fa un po' cliché, vero?>
 
 L'uomo non rispose, e i due stettero in silenzio per un po'.
 
@@ -50,9 +51,9 @@ Fabio rimase un po' interdetto. <Non sei un darkettone e tra un po' è mattina, 
 
 Non ci fu risposta, ed il silenzio tornò fra i due per dei lunghi istanti.
 
-<Dimmi, Fabio>, parlò finalmente il custode, <perdona la mia curiosità: perché tene sei andato?>
+<Dimmi, Fabio>, parlò finalmente il custode, <perdona la mia curiosità: perché sei scomparso? Era intuibile che non ti fosse successo niente, che te ne eri andato di tua volontà --- allora dimmi, perché hai voluto farlo?>
 
-<Non mi va di parlarne>
+<Non mi va di parlarne.>
 
 <Capisco. Allora forse ti va di parlare di questo: perché sei tornato?>
 
@@ -66,7 +67,7 @@ Fabio si voltò a guardare l'uomo dritto nell'oscurità dei suo cappuccio. <Sai 
 
 Fabio si tese per un momento, poi si accasciò contro la lapide.
 
-<No>, disse stancamente. <A che servirebbe? Non mi ridarebbe il Bagonghi, non mi ridarebbe la mia vita. Non servirebbe a niente se non a farmi diventare sempre più scemo, sempre più diviso, sempre meno... sempre meno me. non voglio più uccidere>
+<No>, disse stancamente. <A che servirebbe? Non mi ridarebbe il Bagonghi, non mi ridarebbe la mia vita. Non servirebbe a niente se non a farmi diventare sempre più scemo, sempre più diviso, sempre meno... sempre meno me. Non voglio più uccidere>
 
 <Ti manca la fermezza per uccidere?> chiese l'uomo, la voce tagliente e severa. <Hai paura di non riuscirci, nemmeno con qualcuno che merita tutta la tua giusta ira?>
 
@@ -74,11 +75,11 @@ Fabio si tese per un momento, poi si accasciò contro la lapide.
 
 La voce dell'uomo si ammorbidì. <Non puoi dirmi una cosa del genere e sperare che me la beva così. Ora voglio sapere che diavolo hai combinato di peggio.>
 
-<Oh, un sacco di cose. Me ne sono accorto solo stanotte, sai? Ho ammazzato poche volte, **quante???**, le ho riviste tante volte questa notte - diciamo che le ho sognate ->
+<Oh, un sacco di cose. Me ne sono accorto solo stanotte, sai? Ho ammazzato poche volte, **quante???**, le ho riviste tante volte questa notte --- diciamo che le ho sognate --->
 
 L'uomo rise forte. <Stai confessando degli omicidi, e ti premuri di nascondere che tu e le tue amichette vi siete drogati stanotte?>
 
-anche Fabio rise. <Sì, scusa, abitudine. Insomma, sai qual'è la cosa interessante di tutto questo? Che ogni volta che ho ucciso, l'ho fatto per salvare qualcuno. E quando invece avrei potuto uccidere ma non l'ho fatto... quando ho assaporato quel potere, quando ho goduto nello sbandierare la mia possibilità di concedere la vita invece della morte... è stato allora che ho toccato il mio fondo.>
+Anche Fabio rise. <Sì, scusa, forse è l'abitudine --- oh, ma lascia perdere. Sai qual'è la cosa interessante di tutto questo? Che ogni volta che ho ucciso, l'ho fatto per proteggere qualcuno. Cristo santo, stasera ogni cosa che dico è un cliché, che diavolo mi succede? Insomma, dicevo... quando invece avrei potuto uccidere ma non l'ho fatto... quando ho assaporato quel potere, quando ho goduto nello sbandierare la mia possibilità di concedere la vita invece della morte... è stato allora che ho toccato il mio fondo.>
 
 L'uomo stette in silenzio per un po', come se stesse pensando velocemente a qualcosa. Quando finalmente parlò, lo fece sussurrando: <Il potere è quando abbiamo ogni giustificazione per uccidere, ma non lo facciamo>.
 
@@ -86,25 +87,40 @@ L'uomo stette in silenzio per un po', come se stesse pensando velocemente a qual
 
 Ci fu un altro lungo silenzio fra i due.
 
-<Mi hai detto>, disse lentamente l'uomo, <che uccidere Leka non ti ridarebbe la tua vecchia vita. Hai ragione. Ma quando parlavo di vendicarti, non mi riferivo all'albanese.>
+<Mi hai detto>, disse lentamente l'uomo, <che uccidere Leka non ti ridarebbe la tua vecchia vita. Hai ragione. Ma quando parlavo di vendicarti, non mi riferivo a lui.>
 
 <Vai avanti.>
 
-L'uomo esitò un attimo, poi riprese:
-
-<Ho seguito molto attentamente il tuo caso, sulla stampa e parlando con qualcuno che conosce una certa... com'è che si chiama? Lavinia Gori, mi semra.>
+L'uomo esitò un attimo, poi riprese: <Sai, non ho molto da fare, mi piacciono i pettegolezzi sui fatti di cronaca. Ho seguito con interesse il tuo caso, sulla stampa e parlando con qualcuno che conosce una certa... com'è che si chiama? Lavinia Gori, mi sembra.>
 
 Il respiro di Fabio si interruppe.
 
-<Ah, vedo che ricordi ancora il nome della tua fidanzata>, proseguì l'uomo. <Insomma, mi sono stati raccontati vari retroscena che non sono stati scritti sui giornali. Pare che lei se la facesse con un certo Giacomo Gazzi, il quale ha messo in moto diversi eventi >
+<Ah, vedo che ricordi ancora il nome della tua fidanzata>, proseguì l'uomo. <Insomma, mi sono stati raccontati vari retroscena che non sono stati scritti sui giornali. Pare che lei se la facesse con un certo Giacomo Gazzi, il quale ha messo in moto diversi eventi per impossessarsi di varie cose che non gli appartenevano.>
 
 Fabio continuò ad ascoltare, pietrificato.
 
-L'uomo fece una pausa, prendendo solennemente una boccata di fumo. <Quindi>, annunciò con tono definitivo, <se mai decidessi che in fondo non c'è niente di male ad avere la tu ameritata vendetta... beh, non sono affari miei, ma credo che dovresti dirigerla verso di questo Gazzi.>
+L'uomo fece una pausa, prendendo solennemente una boccata di fumo. <Si dice che dietro la morte del tuo amico imprenditore ci sia proprio questo Gazzi. Oh, non mi guardare così, in fondo ha senso: lavorava per Bagonghi, magari ha intravisto un modo per fare carriera liberandosi di lui; e l'esecutore materiale era un suo collega, è probabile che fossero d'accordo, o che Gazzi avesse esercitato una qualche leva su di lui. Ho letto molto su Anton Leka, molto più di quanto valesse la pena di scrivere riguardo a uno come lui; pare che avesse mille motivi per odiare il suo datore di lavoro, e non puoi che concordare che fosse una persona facilmente manipolabile da qualcuno che avesse l'interesse a sfruttare la sua rabbia.>
 
+Il tempo si era come fermato. 
+
+Una strana visione riaffiorò nella mente di Fabio, un alto e pallido Gazzi bizzarramente incarnato in un simulacro dell'arcinemesi della saga di Harry Potter, il terribile Lord Voldemort; il male puro e semplice, senza sfumature, senza ambiguità. Il significato di quell'immagine era fin troppo chiaro: Giacomo Gazzi era l'arcinemesi di Fabio, il nemico giurato con cui non ci sarebbe mai potuta essere pace. *Nessuno dei due può vivere se l'altro sopravvive...*
+
+La voce dell'uomo nel cimitero penetrò nei pensieri di Fabio, rimbombante come quellla della profezia che aveva ricordato.
+
+<Quindi>, annunciò con tono definitivo, <se mai decidessi che in fondo non c'è niente di male ad avere la tua meritata vendetta... beh, non sono affari miei, ma credo che dovresti dirigerla verso di questo Gazzi.>
+
+Fabio annuì assente, perso nei meandri della sua mente. Per dei lunghi istanti fissò il nulla davanti a sé, riflettendo sulla metafora che le visioni lisergiche gli avevano donato.
+
+<Tutto bene?> disse l'uomo dopo un po'.
+
+<No>, piagnucolò Fabio, tornando alla realtà. <Perché penso queste cose? Non ho mai neanche letto Harry Potter!>
+
+Il tizio tossì la sua boccata di fumo, come se fosse sbiottito. <Prego?>
+
+<Niene, lascia perdere. Credevo avessi capito che sono matto da legare.>
 tizio seminascosto in una nuvola di fumo profumato
 
-**qualcoas sulla profezia, è stato Fabio a designare come suo eguale il Gazzi)
+**qualcoas sulla profezia, è stato Fabio a designare come suo eguale il Gazzi) gazzi è stato ammazzato da bagonghi nella visione
 
 I due fumano un sigaro insieme, e hanno una conversazione molto vaga
 Il becchino fa leva sui sentimenti negativi di Fabio per aizzare il suo odio verso il Gazzi e Lavinia, colpevoli di averlo fatto stare male
