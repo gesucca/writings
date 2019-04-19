@@ -103,11 +103,11 @@ L'uomo fece una pausa, prendendo solennemente una boccata di fumo. <Si dice che 
 
 Il tempo si era come fermato. 
 
+Finalmente, tutto aveva un senso. Come poteva non esserci il Gazzi dietro tutto quello che era successo al povero Bruno? Gazzi gli aveva portato via il suo amico. Gazzi gli avva portato via la donna. E se due più due faceva quattro, anche Daniele sarebbe morto per colpa di Gazzi, in qualche modo. Aveva *perfettamente* senso.
+
 Una strana visione riaffiorò nella mente di Fabio, un alto e pallido Gazzi bizzarramente incarnato in un simulacro dell'arcinemesi della saga di Harry Potter, il terribile Lord Voldemort; il male puro e semplice, senza sfumature, senza ambiguità. Il significato di quell'immagine era fin troppo chiaro: Giacomo Gazzi era l'arcinemesi di Fabio, il nemico giurato con cui non ci sarebbe mai potuta essere pace. *Nessuno dei due può vivere se l'altro sopravvive...*
 
-La voce dell'uomo nel cimitero penetrò nei pensieri di Fabio, rimbombante come quellla della profezia che aveva ricordato.
-
-<Quindi>, annunciò con tono definitivo, <se mai decidessi che in fondo non c'è niente di male ad avere la tua meritata vendetta... beh, non sono affari miei, ma credo che dovresti dirigerla verso di questo Gazzi.>
+La voce dell'uomo nel cimitero penetrò nei pensieri di Fabio, rimbombante come quellla della profezia che aveva ricordato. <Quindi>, annunciò con tono definitivo, <se mai decidessi che in fondo non c'è niente di male ad avere la tua meritata vendetta... beh, non sono affari miei, ma credo che dovresti dirigerla verso di questo Gazzi.>
 
 Fabio annuì assente, perso nei meandri della sua mente. Per dei lunghi istanti fissò il nulla davanti a sé, riflettendo sulla metafora che le visioni lisergiche gli avevano donato.
 
