@@ -118,6 +118,21 @@ Fabio annuì assente, perso nei meandri della sua mente. Per dei lunghi istanti 
 Il tizio tossì la sua boccata di fumo, come se fosse sbiottito. <Prego?>
 
 <Niene, lascia perdere. Credevo avessi capito che sono matto da legare.>
+
+L'uomo rise. <Beh, chi non lo è?>
+
+Fra i due calò nuovamente il silenzio. Nessuno lo ruppe, questa volta. // perché, quando ho detto che si rompe?
+
+Dopo qualche istante, o forse qualche ora, lo strano uomo sbuffò un ultima nuvola di fumo profumato e posò pesantemente una mano sulla spalla di Fabio, e si spinse in piedi. <Caro mio, è stato un piacere fumare con te.  toscanelli al caffé sono i miei sigari preferiti.>, disse. <Purtroppo, il tempo è tiranno e, beh... sono sicuro che abbiamo entrambi del lavoro da fare.>
+
+Fabio lo seguì con lo sgaurdo mentre si allontanava a passo lento. 
+
+<Non piangere troppo il tuo amico Bagonghi>, aggiunse ad alta voce, senza voltarsi. <Lui ha solo scelto di seguire il suo destino. E se anche te seguirai il tuo... beh, se lo facessi, lui sarebbe fiero di te, ne sono certo.>
+
+Fabio non disse niente. Non aveva proprio niente da dire.
+
+// qualche chiosa sul suo destino eccetera
+
 tizio seminascosto in una nuvola di fumo profumato
 
 **qualcoas sulla profezia, è stato Fabio a designare come suo eguale il Gazzi) gazzi è stato ammazzato da bagonghi nella visione
