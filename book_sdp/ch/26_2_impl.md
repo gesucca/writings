@@ -41,7 +41,7 @@ Fabio prese una copiosa boccata di fumo e provò a sbuffarlo in dei cerchi conce
 
 Fabio ridacchiò. <Sai solo leggere i giornali e fare due più due, caro il mio custode del cimitero.>
 
-<Forza, spiega.>
+<Anche tu sembri saper fare due più due. Forza, spiega.>
 
 <Sono un tizio strano che di notte se ne sta seduto sulla tomba dell'imprenditore morto l'altro giorno. Chi potrei mai essere, se non il suo amico scomparso da diversi mesi?>
 
@@ -65,25 +65,25 @@ Fabio si voltò a guardare l'uomo dritto nell'oscurità dei suo cappuccio. <Sai 
 
 <Oh, sì>, fece quello, la voce carica di un'emozione indecifrabile, come se stesse trattenendo qualcosa. <Sì, so proprio dove trovarlo - ah, ed è più vicino a noi di quanto tu possa pensare!>
 
-Fabio si tese per un momento, poi si accasciò contro la lapide.
+I muscoli di Fabio si irrigidirono per un momento, ma subito si rilassò, accasciandosi contro la lapide.
 
-<No>, disse stancamente. <A che servirebbe? Non mi ridarebbe il Bagonghi, non mi ridarebbe la mia vita. Non servirebbe a niente se non a farmi diventare sempre più scemo, sempre più diviso, sempre meno... sempre meno me. Non voglio più uccidere>
+<Non mi interessa>, disse stancamente. <A che servirebbe? Non mi ridarebbe il Bagonghi, non mi ridarebbe la mia vita. Non servirebbe a niente se non a farmi diventare sempre più scemo, sempre più diviso, sempre meno... sempre meno me. Non voglio più uccidere.>
 
 <Ti manca la fermezza per uccidere?> chiese l'uomo, la voce tagliente e severa. <Hai paura di non riuscirci, nemmeno con qualcuno che merita tutta la tua giusta ira?>
 
-<Oh, ci riuscirei, eccome. Anzi, credo che uccidere sia una delle cose meno peggiori che ho fatto ultimamente. >
+<Oh, ci riuscirei, eccome. Anzi, credo che uccidere sia una delle cose meno peggiori che ho fatto ultimamente.>
 
 La voce dell'uomo si ammorbidì. <Non puoi dirmi una cosa del genere e sperare che me la beva così. Ora voglio sapere che diavolo hai combinato di peggio.>
 
-<Oh, un sacco di cose. Me ne sono accorto solo stanotte, sai? Ho ammazzato poche volte, **quante???**, le ho riviste tante volte questa notte --- diciamo che le ho sognate --->
+<Oh, un sacco di cose. Me ne sono accorto solo stanotte, sai? Ho ammazzato, questo non lo nego. Questa notte ho rivissuto per tante volte i miei omicidi, lì ho... diciamo che li ho sognati --- >
 
-L'uomo rise forte. <Stai confessando degli omicidi, e ti premuri di nascondere che tu e le tue amichette vi siete drogati stanotte?>
+L'uomo rise forte. <Stai confessando di essere un assassino, ma ti premuri di nascondere che tu e le tue amichette vi siete drogati stanotte?>
 
 Anche Fabio rise. <Sì, scusa, forse è l'abitudine --- oh, ma lascia perdere. Sai qual'è la cosa interessante di tutto questo? Che ogni volta che ho ucciso, l'ho fatto per proteggere qualcuno. Cristo santo, stasera ogni cosa che dico è un cliché, che diavolo mi succede? Insomma, dicevo... quando invece avrei potuto uccidere ma non l'ho fatto... quando ho assaporato quel potere, quando ho goduto nello sbandierare la mia possibilità di concedere la vita invece della morte... è stato allora che ho toccato il mio fondo.>
 
 L'uomo stette in silenzio per un po', come se stesse pensando velocemente a qualcosa. Quando finalmente parlò, lo fece sussurrando: <Il potere è quando abbiamo ogni giustificazione per uccidere, ma non lo facciamo>.
 
-<Sì, l'ho visto anch'io quel film>, rispose Fabio. <Anche se credo che la morale lì fosse un pelo diversa.>
+<Sì, l'ho visto anch'io quel film>, rispose Fabio. <Anche se credo che la morale lì fosse un pelo diversa dalla mia.>
 
 Ci fu un altro lungo silenzio fra i due.
 
@@ -103,13 +103,13 @@ L'uomo fece una pausa, prendendo solennemente una boccata di fumo. <Si dice che 
 
 Il tempo si era come fermato. 
 
-Finalmente, tutto aveva un senso. Come poteva non esserci il Gazzi dietro tutto quello che era successo al povero Bruno? Gazzi gli aveva portato via il suo amico. Gazzi gli avva portato via la donna. E se due più due faceva quattro, anche Daniele sarebbe morto per colpa di Gazzi, in qualche modo. Aveva *perfettamente* senso.
+Finalmente, tutto aveva un senso. Come poteva non esserci il Gazzi dietro tutto quello che era successo al povero Bruno? Gazzi gli aveva portato via il suo amico. Gazzi gli avva portato via la donna. E se due più due faceva quattro, anche Daniele sarebbe morto per colpa di Gazzi, in qualche modo. Aveva perfettamente, pericolosamente senso.
 
 Una strana visione riaffiorò nella mente di Fabio, un alto e pallido Gazzi bizzarramente incarnato in un simulacro dell'arcinemesi della saga di Harry Potter, il terribile Lord Voldemort; il male puro e semplice, senza sfumature, senza ambiguità. Il significato di quell'immagine era fin troppo chiaro: Giacomo Gazzi era l'arcinemesi di Fabio, il nemico giurato con cui non ci sarebbe mai potuta essere pace. *Nessuno dei due può vivere se l'altro sopravvive...*
 
-La voce dell'uomo nel cimitero penetrò nei pensieri di Fabio, rimbombante come quellla della profezia che aveva ricordato. <Quindi>, annunciò con tono definitivo, <se mai decidessi che in fondo non c'è niente di male ad avere la tua meritata vendetta... beh, non sono affari miei, ma credo che dovresti dirigerla verso di questo Gazzi.>
+La voce dell'uomo nel cimitero penetrò nei pensieri di Fabio, rimbombante come quella della profezia che aveva ricordato. <Quindi>, annunciò con tono definitivo, <se mai decidessi che in fondo non c'è niente di male ad avere la tua meritata vendetta... beh, non sono affari miei, ma credo che dovresti dirigerla verso di questo Gazzi.>
 
-Fabio annuì assente, perso nei meandri della sua mente. Per dei lunghi istanti fissò il nulla davanti a sé, riflettendo sulla metafora che le visioni lisergiche gli avevano donato.
+Fabio annuì assente, perso nei meandri della sua mente. Per dei lunghi istanti fissò il nulla davanti a sé, riflettendo sulla metafora che le visioni lisergiche gli avevano donato mentre un Gazzi-Voldemort danzava balordo nella sua immaginazione.
 
 <Tutto bene?> disse l'uomo dopo un po'.
 
@@ -121,9 +121,9 @@ Il tizio tossì la sua boccata di fumo, come se fosse sbiottito. <Prego?>
 
 L'uomo rise. <Beh, chi non lo è?>
 
-Fra i due calò nuovamente il silenzio. Nessuno lo ruppe, questa volta. // perché, quando ho detto che si rompe?
+Fra i due calò nuovamente il silenzio, e nessuno lo ruppe per un po'.
 
-Dopo qualche istante, o forse qualche ora, lo strano uomo sbuffò un ultima nuvola di fumo profumato e posò pesantemente una mano sulla spalla di Fabio, e si spinse in piedi. <Caro mio, è stato un piacere fumare con te.  toscanelli al caffé sono i miei sigari preferiti.>, disse. <Purtroppo, il tempo è tiranno e, beh... sono sicuro che abbiamo entrambi del lavoro da fare.>
+Dopo qualche istante, o forse qualche ora, lo strano uomo sbuffò un ultima nuvola di fumo profumato e posò pesantemente una mano sulla spalla di Fabio, e si spinse in piedi. <Caro mio, è stato un piacere fumare con te. I toscanelli al caffé sono i miei sigari preferiti.>, disse. <Purtroppo, il tempo è tiranno e, beh... sono sicuro che abbiamo entrambi del lavoro da fare.>
 
 Fabio lo seguì con lo sgaurdo mentre si allontanava a passo lento. 
 
