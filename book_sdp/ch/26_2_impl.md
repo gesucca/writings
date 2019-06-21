@@ -1,7 +1,6 @@
-// c'è troppe volte la parola credere
 «Allora?» incalzò la figura. Era un uomo alto, dalla folta barba scura, parte del volto nascosta dal cappuccio di un enorme impermeabile.
 
-«Boh, credo di sì», fece Fabio spassionatamente, parlando con fatica; la droga e la nottata all'umido avevano reso la sua voce era roca ed impastata. «Anche se, a essere sincero, non ne sono più così sicuro quanto prima. Vuoi essere annoiato con qualche sega mentale sul concetto stesso di realtà? Là c'è una ragazza che ti può aiutare.»
+«Boh, penso di sì», fece Fabio spassionatamente, parlando con fatica; la droga e la nottata all'umido avevano reso la sua voce era roca ed impastata. «Anche se, a essere sincero, non ne sono più così sicuro quanto prima. Vuoi essere annoiato con qualche sega mentale sul concetto stesso di realtà? Là c'è una ragazza che ti può aiutare.»
 
 La figura rise. «Credici o no, ho già avuto notizia delle tue compagnie. Sembra tu sia beato tra le donne, almeno stasera.»
 
@@ -21,7 +20,7 @@ Stavolta fu Fabio a ridere. «Perché dovrei? Se sei un'allucinazione, mettiti p
 
 Senza dire niente, l'uomo incappucciato gli lanciò un'accendino.
 
-«Nero come l'anima», fece distrattamente Fabio, mentre si accendeva il sigaro. «Sai, c'era una certa persona che comprava sempre e solo accendini neri. Non aveva un vero motivo, credo; non gli importava davvero del colore. Però, quando qualcuno glielo chiedeva, lui diceva sempre così. Di che altro colore avrebbe dovuto prenderli?»
+«Nero come l'anima», fece distrattamente Fabio, mentre si accendeva il sigaro. «Sai, c'era una certa persona che comprava sempre e solo accendini neri. Non aveva un vero motivo, non gli importava davvero del colore; però, quando qualcuno glielo chiedeva, lui diceva sempre così. Di che altro colore avrebbe dovuto prenderli?»
 
 L'uomo misterioso ridacchiò. Un po' goffamente, si mise a sedere per terra accanto a Fabio. «Sembra un tipo niente male, questa persona».
 
@@ -51,7 +50,7 @@ Fabio rimase un po' interdetto. «Non sei un darkettone e tra un po' è mattina,
 
 Non ci fu risposta, ed il silenzio tornò fra i due per dei lunghi istanti.
 
-«Dimmi, Fabio», parlò finalmente il custode, «perdona la mia curiosità: perché sei scomparso? Era intuibile che non ti fosse successo niente, che te ne fossi andato di tua volontà --- allora dimmi, perché hai voluto farlo?»
+«Dimmi, Fabio», parlò finalmente il custode, «perdona la mia curiosità: perché sei scomparso? Era intuibile che non ti fosse successo niente, che te ne fossi andato di tua volontà --- allora dimmi, perché hai voluto andartene?»
 
 Fabio fu secco: «Non mi va di parlarne.»
 
@@ -67,7 +66,7 @@ Fabio si voltò a guardare l'uomo dritto nell'oscurità del suo cappuccio. «Sai
 
 I muscoli di Fabio si irrigidirono per un momento, ma subito si rilassò, accasciandosi contro la lapide.
 
-«Non mi interessa», disse stancamente. «A che servirebbe? Non mi ridarebbe il Bagonghi, non metterebbe a posto la mia vita. Non servirebbe a niente se non a farmi diventare sempre più scemo, sempre più diviso, sempre meno... sempre meno me. Non voglio più uccidere.»
+«Non mi interessa», disse stancamente. «A che servirebbe? Non mi ridarebbe il Bagonghi, né metterebbe a posto la mia vita. Non servirebbe a niente se non a farmi diventare sempre più scemo, sempre più diviso, sempre meno... beh, sempre meno me. Non voglio più uccidere.»
 
 «Ti manca la fermezza per farlo?» chiese l'uomo, la voce tagliente e severa. «Hai paura di non riuscirci, nemmeno con qualcuno che merita tutta la tua ira?»
 
@@ -125,21 +124,10 @@ Fra i due calò nuovamente il silenzio, e nessuno lo ruppe per un po'.
 
 Dopo qualche istante, o forse qualche ora, lo strano uomo sbuffò un ultima nuvola di fumo profumato e posò pesantemente una mano sulla spalla di Fabio, spingendosi in piedi. 
 
-«Caro mio, è stato un piacere fumare con te. I toscanelli al caffé sono i miei sigari preferiti», disse. «Purtroppo, il tempo è tiranno e, beh... sono sicuro che abbiamo entrambi del lavoro da fare.»
+«Caro mio, è stato un piacere fumare con te. I toscanelli al caffé sono i miei sigari preferiti», disse. «Purtroppo, il tempo è tiranno e sono sicuro che abbiamo entrambi del lavoro da fare.»
 
 Fabio lo seguì con lo sgaurdo mentre si allontanava a passo lento. 
 
 «Non piangere troppo il tuo amico Bagonghi», aggiunse ad alta voce, senza voltarsi. «Lui ha solo scelto di seguire il suo destino. E se anche te seguirai il tuo... beh, se lo facessi, lui sarebbe fiero di te, ne sono certo.»
 
 Fabio non disse niente. Non aveva proprio niente da dire.
-
-// qualche chiosa sul suo destino eccetera
-
-tizio seminascosto in una nuvola di fumo profumato
-
-**qualcoas sulla profezia, è stato Fabio a designare come suo eguale il Gazzi) gazzi è stato ammazzato da bagonghi nella visione
-
-I due fumano un sigaro insieme, e hanno una conversazione molto vaga
-Il becchino fa leva sui sentimenti negativi di Fabio per aizzare il suo odio verso il Gazzi e Lavinia, colpevoli di averlo fatto stare male
-Il becchino se ne va, Vittoria e Denise si riprendono; è quasi l'alba, primi chiarori
-I tre parlano di come si fa ad essere sé stessi, e di come alla fine, l'unica via per essere felici è di accettare il dolore e fare ciò che è giusto, a prescindere dal costo
