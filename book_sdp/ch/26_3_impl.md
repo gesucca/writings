@@ -16,7 +16,7 @@ Denise sbadigliò copiosamente prima di rispondere. <Sta' zitto> biascicò, la v
 
 Vittoria prese a divincolarsi e ricominciò a stridere: <Lasciamiiiii>
 
-In un attimo, Denise cambiò la presa e soffocò il fastidioso lamento con un braccio. <Buongiorno>, sussurrò all'orecchio di Vittoria. <Buongiorno, ho detto>, ripeté minacciosa.
+In un attimo, Denise cambiò la presa e soffocò il fastidioso lamento con un braccio. <Buongiorno>, scandì all'orecchio di Vittoria. <Buongiorno, ho detto>, ripeté minacciosa.
 
 ..tafferuglio denise morde l'orecchio lei si divincola e si guardano male in silenzio
 
