@@ -22,6 +22,8 @@ In un attimo, Denise cambiò la presa e soffocò il fastidioso lamento con un br
 
 Fabio non aveva idea di come reagire a tutto quello. <Voi due siete qualcosa di male>, disse sconsolato. <Temo di aver commesso un grave errore a farvi conoscere.>
 
-Le due ragazze presero a ridere nello stesso istante, all'unisono.
+Le due ragazze si esibirono all'unisono in una folle risata isterica.
 
-Fabio era sempre più inquietato
+<Allora>, fece Denise, non appena le due si furono calmate. Lanciò a Fabio un cauto sguardo indagatore, e proseguì: <Sù, non lasciarci sulle spine: come ti senti?>
+
+Fabio trasse un profondo, stanco sospiro. <Questa, vecchie mie, è proprio una bella, bella domanda.>
