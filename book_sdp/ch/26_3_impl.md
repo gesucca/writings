@@ -27,3 +27,11 @@ Le due ragazze si esibirono all'unisono in una folle risata isterica.
 <Allora>, fece Denise, non appena le due si furono calmate. Lanciò a Fabio un cauto sguardo indagatore, e proseguì: <Sù, non lasciarci sulle spine: come ti senti?>
 
 Fabio trasse un profondo, stanco sospiro. <Questa, vecchie mie, è proprio una bella, bella domanda.>
+
+<Lo so>, lo incalzò Denise. <Mi piacciono le belle domande. E la risposta?>
+
+Fabio sospirò ancora. Esitò un attimo, poi rispose quasi in un sussurro: <Mi sento strano.>
+
+<Si capisce>, rispose subito Denise. <Questo acido è una roba incredibile, non avevo mai provato niente del genere. Ho visto cose --- ho *fatto* cose che... beh, non avrei mai creduto possibili.>
+
+Vittoria arrossì improvvisamente e violentemente
