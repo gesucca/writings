@@ -26,4 +26,14 @@ Le due ragazze si esibirono all'unisono in una folle risata isterica.
 
 <Allora>, fece Denise, non appena le due si furono calmate. Lanciò a Fabio un cauto sguardo indagatore, e proseguì: <Sù, non lasciarci sulle spine: come ti senti?>
 
-Fabio trasse un profondo, stanco sospiro. <Questa, vecchie mie, è proprio una bella, bella domanda.>
+Fabio trasse un profondo, stanco sospiro. <Questa, vecchie mie, è proprio una bella domanda.>
+
+Sul volto di Denise fu chiaramente visibile il dispiacere. <Non è servito proprio a niente?>, chiese con la voce piccola piccola.
+
+<Oltre a prendere tutti e tre una bellissima polmonite?> sbottò Fabio, un po’ più tagliente di quanto non avrebbe voluto essere.
+
+Denise abbassò lo sguardo. <Le droghe psichedeliche favoriscono l’introspezione>, sussurrò, una tristezza assoluta intrisa nelle sue parole. <Pensavo che potesse aiutarti. Davvero. A me ha aiutato, credo. A te non è servito, si capisce; niente di quello che faccio serve mai a nessuno.> 
+
+Se non avesse conosciuto bene la su amica, Fabio avrebbe potuto giurare di aver sentito un accenno di singhiozzo. <Denise...> disse piano, tendendo una mano incerta verso la sua amica.
+
+<Ho
