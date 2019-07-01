@@ -28,6 +28,16 @@ Le due ragazze si esibirono all'unisono in una folle risata isterica.
 
 Fabio trasse un profondo, stanco sospiro. <Questa, vecchie mie, è proprio una bella domanda.>
 
+<Lo so>, lo incalzò Denise. <Mi piacciono le belle domande. E la risposta?>
+
+Fabio sospirò ancora. Esitò un attimo, poi rispose quasi in un sussurro: <Mi sento strano.>
+
+<Si capisce>, rispose subito Denise. <Questo acido è una roba incredibile, non avevo mai provato niente del genere. Ho visto cose --- ho *fatto* cose che... beh, non avrei mai creduto possibili.>
+
+Vittoria arrossì improvvisamente e violentemente.
+
+Fabio proseguì: <//qualcosa di bitter>
+
 Sul volto di Denise fu chiaramente visibile il dispiacere. <Non è servito proprio a niente?>, chiese con la voce piccola piccola.
 
 <Oltre a prendere tutti e tre una bellissima polmonite?> sbottò Fabio, un po’ più tagliente di quanto non avrebbe voluto essere.
@@ -36,4 +46,4 @@ Denise abbassò lo sguardo. <Le droghe psichedeliche favoriscono l’introspezio
 
 Se non avesse conosciuto bene la su amica, Fabio avrebbe potuto giurare di aver sentito un accenno di singhiozzo. <Denise...> disse piano, tendendo una mano incerta verso la sua amica.
 
-<Ho
+
