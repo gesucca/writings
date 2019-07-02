@@ -36,7 +36,7 @@ Fabio sospirò ancora. Esitò un attimo, poi rispose quasi in un sussurro: <Mi s
 
 Vittoria arrossì improvvisamente e violentemente.
 
-Fabio proseguì: <//qualcosa di bitter>
+Fabio proseguì, apparentemente non interessato alla faccenda: <Anche io ho visto cose impossibili, è una droga allucinogena, in fondo. Ma non è quello che mi fa sentire strano. E’ quello di cui mi sono accorto che mi turba. Ho avuto varie intuizioni, assaggi di sentimenti di cui non mi ero accorto. Però, se dovessi dirti che l’ho capito, ti direi sicuramente una cazzata. >
 
 Sul volto di Denise fu chiaramente visibile il dispiacere. <Non è servito proprio a niente?>, chiese con la voce piccola piccola.
 
@@ -46,4 +46,15 @@ Denise abbassò lo sguardo. <Le droghe psichedeliche favoriscono l’introspezio
 
 Se non avesse conosciuto bene la su amica, Fabio avrebbe potuto giurare di aver sentito un accenno di singhiozzo. <Denise...> disse piano, tendendo una mano incerta verso la sua amica.
 
+<non importa>, fece lei, riscuotendosi. Guardò Fabio dritto negli occhi. <Quello che ho fatto l’ho fatto perché lo ritenevo giusto, e se non è servito a niente, o se addirittura ti ha fatto male... ti chiedo scusa e ne trarrò le conseguenze. Ma se tornassi indietro lo rifarei, perché l’ho fatto perché mi sembrava giusto.>
+
+Fabio non sapeva cosa dire. Evidentemente, l’esperienza mistica non aveva scosso soltanto lui.
+
+<Hai fatto la cosa giusta>, disse improvvisamente Vittoria, la voce bassa ma sicura.
+
+Denise sbatté più volte le palpebre. <Grazie>, le disse incerta.
+
+<Anche lui pensa che tu abbia fatto bene>, proseguì. Un’impercettibile, strano sorriso incurvò lievemente le sua labbra. <E anche io, o non sarei stata d’accordo a farlo.>
+
+...Senza aspettare risposta, Vittoria si avvicinò a Fabio e lo abbracciò.
 
