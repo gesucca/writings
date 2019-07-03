@@ -36,7 +36,7 @@ Fabio sospirò ancora. Esitò un attimo, poi rispose quasi in un sussurro: <Mi s
 
 Vittoria arrossì improvvisamente e violentemente.
 
-Fabio proseguì, apparentemente non interessato alla faccenda: <Anche io ho visto cose impossibili, è una droga allucinogena, in fondo. Ma non è quello che mi fa sentire strano. E’ quello di cui mi sono accorto che mi turba. Ho avuto varie intuizioni, assaggi di sentimenti di cui non mi ero accorto. Però, se dovessi dirti che l’ho capito, ti direi sicuramente una cazzata. >
+Fabio proseguì, apparentemente non interessato alla faccenda: <Anche io ho visto cose impossibili, è una droga allucinogena, in fondo. Ma non è quello che mi fa sentire strano. E’ quello di cui mi sono accorto che mi turba. Ho avuto varie intuizioni, assaggi di sentimenti di cui non mi ero accorto. Però, se dovessi dirti che ho capito tutto, ti direi sicuramente una cazzata. >
 
 Sul volto di Denise fu chiaramente visibile il dispiacere. <Non è servito proprio a niente?>, chiese con la voce piccola piccola.
 
@@ -46,9 +46,9 @@ Denise abbassò lo sguardo. <Le droghe psichedeliche favoriscono l’introspezio
 
 Se non avesse conosciuto bene la su amica, Fabio avrebbe potuto giurare di aver sentito un accenno di singhiozzo. <Denise...> disse piano, tendendo una mano incerta verso la sua amica.
 
-<non importa>, fece lei, riscuotendosi. Guardò Fabio dritto negli occhi. <Quello che ho fatto l’ho fatto perché lo ritenevo giusto, e se non è servito a niente, o se addirittura ti ha fatto male... ti chiedo scusa e ne trarrò le conseguenze. Ma se tornassi indietro lo rifarei, perché l’ho fatto perché mi sembrava giusto.>
+<Non importa>, fece lei, riscuotendosi. Guardò Fabio dritto negli occhi. <Quello che ho fatto l’ho fatto perché lo ritenevo giusto, e se non è servito a niente, o se addirittura ti ha fatto male... ti chiedo scusa e ne trarrò le conseguenze. Ma se tornassi indietro lo rifarei, perché l’ho fatto perché mi sembrava giusto.>
 
-Fabio non sapeva cosa dire. Evidentemente, l’esperienza mistica non aveva scosso soltanto lui.
+Fabio non sapeva cosa dire. Non aveva mai sentio Denise dire quelle cose (ah no??? cotrolla); evidentemente, l’esperienza mistica non aveva scosso soltanto lui.
 
 <Hai fatto la cosa giusta>, disse improvvisamente Vittoria, la voce bassa ma sicura.
 
@@ -56,5 +56,18 @@ Denise sbatté più volte le palpebre. <Grazie>, le disse incerta.
 
 <Anche lui pensa che tu abbia fatto bene>, proseguì. Un’impercettibile, strano sorriso incurvò lievemente le sua labbra. <E anche io, o non sarei stata d’accordo a farlo.>
 
-...Senza aspettare risposta, Vittoria si avvicinò a Fabio e lo abbracciò.
+<La pivella ha ragione>, concordò Fabio, cogliendo l'espressione di Vittoria e provando a sdrammatizzare. 
 
+// una nuvola deve coprire il sole quando si intristiscono
+
+Quando nessuna reazione arrivò, tornò serio e proseguì. <Non ce l'ho con voi. Sono grande e vaccinato, e ho acconsentito a farlo. Non sono certo un tipo da soccombere alla peer pressure, se non mi fosse andato bene semplicemente non ve lo avrei fatto fare. E comunque, Denise, non è stato inutile: non ci ho capito molto in quel turbinio di pensieri che mi ha investito, ma credo...> il suo sguardo si spostò su Vittoria, <... credo proprio di aver capito l'unica cosa importante, la chiave per arrivare a tutte le altre.>
+
+Senza preavviso, Vittoria si avvicinò a Fabio e lo abbracciò. 
+
+<E' da tanto che -> disse, e la sua voce fu rotta da un violento singhiozzo. Si strinse a Fabio ancora più forte. <E' da quando sei tornato dal porto che - che lo so, e che cerco di aiutarti, ma - non sapevo che fare - poi >
+
+Il sole riapparve improvvisamente.
+
+Fabio la strinse a sé con decisione, cercando di tranquillizzare il suo pianto. Scoccò un'occhiata a Denise, che lo guardava triste. <Ebbene sì, care mie>, disse sorridendo. <Sono proprio partito di cervello. Pazzo al cento per cento, e non un pazzo tranqui ->
+
+Il mondo si congelò all'istante. // arriva lavinia
