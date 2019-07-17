@@ -1,0 +1,1 @@
+Il cuore di Fabio si era fermato. Sulla soglia del grosso, rugginoso cancello, inondata dal sole, si stagliava un'inconfondibile figura.

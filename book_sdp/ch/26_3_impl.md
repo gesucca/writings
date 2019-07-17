@@ -70,4 +70,4 @@ Il sole riapparve improvvisamente.
 
 Fabio la strinse a sé con decisione, cercando di tranquillizzare il suo pianto. Scoccò un'occhiata a Denise, che lo guardava triste. «Ebbene sì, care mie», disse sorridendo. «Sono proprio partito di cervello. Pazzo al cento per cento, e non un pazzo tranqui -»
 
-Il mondo si congelò all'istante. // arriva lavinia
+Il mondo si congelò all'istante.
