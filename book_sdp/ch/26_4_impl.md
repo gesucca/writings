@@ -26,12 +26,33 @@ Fabio proseguì: <Dimmi, Lavinia, se una luce ne oscura altre è sempre luce?>
 
 ?? Una nuvola passeggera coprì coreograficamente il sole.
 
-Lavinia non parve far caso a quelle parole. La sua attenzione era fissa su Fabio, il suo sgurado lo esplorava avidamente, come se volesse capire se era davvero lui.
+Lavinia non parve far caso a quelle parole. La sua attenzione era fissa su Fabio, il suo sgurado lo esplorava avidamente, come se volesse capire se era davvero lui. <Come stai?,> gli chiese con le lacrime che stavano cominciando a sgorgare dai suoi occhi.
 
-<Se un bene fa del male, è davvero bene?> domandò di nuovo Fabio, gli occhi fissi sulla sua ex compagna di vita. <Se per amore menti, o rubi, o uccidi, sei comunque una persona buona? E se menti a te stesso, se ti inganni per addolcire la realtà, per mascherarti il fatto che in realtà sei una stronza opportunista che mantiene una relazione solo per il comodo di dividere gli oneri della vita sei o non sei una puttana? RISPONDI>
+<Se un bene fa del male, è davvero bene?> domandò di nuovo Fabio, gli occhi fissi sulla sua ex compagna di vita. <Se per amore menti, o rubi, o uccidi, sei comunque una persona buona?>
 
-La vice di Fabio era andata a salire sul finire della frase.
+Un barlume rosso attraversò brevemente gli occhi di Fabio. Sul suo volto si dipinse unìespressione dura, risoluta, e i suoi occhi divennero duri, insostenibili, come se stesse cercando di incendiare la sua vecchia compagna di vita con il solo sguardo.
 
-Lavinia non parve aver ascoltato niente di ciò che Fabio aveva detto. I loro sguardi si incrociarono di nuovo, e nel suo cominciarono a comparire delle lacrime. <Come - come stai?> chiese, la voce piccola e già rotta dal pianto.
+<Se ogni tanto sbirci nell'abisso solo per vedere l'effetto che fa, e ogni tanto ti concedi qualche piccola deviazione dal sentiero giusto, per prenderti quella piccola soddisfazione che ti fa andare avanti, sei sempre buono?>
 
-Lo sguardo che Fabio le restituì avrebbe potuto ucciderla all'istante. <Sto esattamente come l'ultima volta che mi hai visto. Non ti interessava allora, non vedo perché dovrebbe interessarti adesso.>
+La voce di Fabio si indurì ancora di più. Una terribile furia si era come impadronita di ui.
+
+<Se invece a un certo non ne puoi semplicemente più e dici basta, e cominci a cercare di vivere peggio che puoi, tuffandoti in un abisso oscuro senza la minima esitazione ogni volta che ne hai l'occasione con la folle, disperata  speranza di perderti, di non essere più lo stesso quando torni su. Ma sono solo momenti, e quando passano ti rendi conto che in realtà sei sempre il solito coglione di sempre, soffocato dallo stesso dolore, condannato a patire per sempre senza avere altro che insignificanti vendette contro il mondo ogni volta in cui fai de lmale a qualcuno! Dimmi, Lavinia - se questo è il tuo destino, sei una persona buona?>
+
+Lavinia parve aver ascoltato attentamente di ciò che Fabio aveva detto. I loro sguardi si incrociarono di nuovo, e nel suo cominciarono a comparire delle lacrime. <Questo - è così che stai?> chiese, la voce piccola e già rotta dal pianto.
+
+La faccia di Fabio si raggrinzì su sé stessa, come se si fosse improvvisamente rotta. Tutto il suo dolore parve mostrarsi su di essa. <Sì>, disse in un patitico squitìo.
+
+Durò solo un'istante.
+La vice di Fabio era andata a salire sul finire della frase. L'ardore ritornò potente nelle sue parole quando proseguì. Lo sguardo che Fabio le restituì avrebbe potuto ucciderla all'istante. <Scusami, non è importante. Sto esattamente come l'ultima volta che mi hai visto. Non ti interessava allora, non vedo perché dovrebbe interessarti adesso.>
+
+Qualcosa dentro Lavinia parve rompersi; quasi inciampò sui suoi piedi pur essendo ferma, ed emise un penoso lamento interrogativo.
+
+Fabio non le dette tempo di aggiungere altro. <Lasciamo perdere, parliamo un momento di te. Se una ragazza non ha né arte né parte in tutto il mondo, e vuole solo raccogliere dalla vita il meglio che trova, magari può trovarsi un coglione qualunque che la desidera per viverci insieme e dividersi le fatiche della vita. Se poi ne trova addirittura un altro, e se in fondo gli sta più che bene perché alla fine le attenzioni gli piacciono, può succedere che alla fine lei si inganni per addolcire la realtà, per mascherarsi il fatto che in realtà è una stronza opportunista che mantiene una relazione solo per il comodo di dividere gli oneri della vita, magari in attesa del momento opportuno per fare il ribaltone e andare con l'altro tizio. E se questa ragazza non si accorge - o addirittura non gli importa dell'effetto che il suo essere troia fino al midollo fa alle persone che gli stanno intorno e che magari le vogliono bene, questa ragazza è o non è una puttana?>
+
+Fabio aveva le fauci asciutte. Ribolliva di rabbia, il suo discorso aveva seguito uncrescendo di itnensità tale dall'aver ringhiato le ultime parole.
+
+Lavinia aveva ascoltato rapita ogni cosa che aveva detto FAbio. Era pallida, sudata, addolorata dal sentir dire quelle parole dalla persona che amava; eppur enon disse ancora niente. Le sue machi stringevano così forte il crisantemo che aveva preso per il Bagonghi da avern quasi stritolato il gambo.
+
+<>
+
+// dove sta scritto che debba tramare una sola persona per volta?
