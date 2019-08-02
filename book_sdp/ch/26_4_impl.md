@@ -1,3 +1,5 @@
+// separare fabio e lavinia punti di vista
+
 Il cuore di Fabio si era fermato. Sulla soglia del grosso, rugginoso cancello, inondata dallo scintillante sole mattutino, si stagliava un'inconfondibile figura. Occhi gonfi e sguardo basso, passo lento e rassegnato, un crisantemo fresco in mano: Lavinia Gori si trascinava sul vialetto del cimitero con l'aria di chi ha subito qualche colpo di troppo dalla vita.
 
 Né Denise né Vittoria osarono muoversi o fiatare. Ne avevano parlato la sera precedente, dopo essere scampate al finimondo per un pelo, quando per puro miracolo Lavinia e Fabio non si erano notati. Le due ragazze erano d'accordo: sarebbe potuto andare disastrosamente male, ma se Fabio voleva avere anche solo una minima speranza di tornare in sé, doveva affrontare apertamente quello spettro del passato.
@@ -51,8 +53,44 @@ Fabio non le dette tempo di aggiungere altro. <Lasciamo perdere, parliamo un mom
 
 Fabio aveva le fauci asciutte. Ribolliva di rabbia, il suo discorso aveva seguito uncrescendo di itnensità tale dall'aver ringhiato le ultime parole.
 
-Lavinia aveva ascoltato rapita ogni cosa che aveva detto FAbio. Era pallida, sudata, addolorata dal sentir dire quelle parole dalla persona che amava; eppur enon disse ancora niente. Le sue machi stringevano così forte il crisantemo che aveva preso per il Bagonghi da avern quasi stritolato il gambo.
+Lavinia aveva ascoltato rapita ogni cosa che aveva detto FAbio. Era pallida, sudata, addolorata dal sentir dire quelle parole dalla persona che amava; eppur enon disse ancora niente. Le sue mani stringevano così forte il crisantemo che aveva preso per il Bagonghi da avern quasi stritolato il gambo.
+rassegnata
+<Comunque, non ha pirassegnataù importanza>, concluse Fabio, ora calmo, una nota di rrassegnataassegnazione nella voce. <Sono solo cose che mi sono accorto che ti avrei voluto dire da tanto tempo, ma non abbiamo più avuto occasioni di parlare con franchezza da tanto, tanto tempo.>
 
-<>
+Fabio si voltò con una certa, bizzarra solennità. <Offri pure quel fiore al povero Bruno, dagli l'ultimo saluto come meglio credi, poi vattene.>
+
+Singhiozzò.
+
+<Continua ad essere felice, te che riesci a farlo. Non hai bisogno di Bruno... e nemmeno di me.>
+
+Se ne andò con passo lento verso le due ragazze, che Lavinia aveva totalmene ignorato fino a quel momento.
+
+Una sola parola, piatta, incredula, uscì dalla bocca della ragazza mentre guardava la figura del suo compagno di vita allontanarsi da lei: <Cosa>.
+
+Incrociò lo sguardo di Denise, la quale si limitò a guardarla e ad alzare leggermente le mani in segno di rassegnazione.
+
+<Cosa>, ripeté con più vigore.
+
+Il suo ragazzo era scomparso. Un loro amico aveva scritto a tutti di averlo visto, poi era scomparso anche lui. Un altro loro amico era stato ammazzato dall'ennesimo amico, che era a sua volta sparito.
+
+<Cosa>, ripeté con ancora più vigore.
+
+Ora, il suo ragazzo si era presentato dopo *mesi*, concio come le bestie, per dire cose a caso e prenderla a parole.
+
+<Cosa *cazzo* - >
+
+Lavinia esplose.
+
+Buttò via il crisantemo ormai stritolato, si tolse una scarpa e la lanciò dietro a Fabio con tutta la forza che aveva.
+
+<COSA CAZZO SUCCEDE> urlò, completamente fuori di sé. <FERMO, FERMO DIO B -> lanciò l'altra scarpa.
+
+Fabio si fermò, ma non si voltò.
+
+<Ora te vieni qui> ringhiò, la voce vibrante per la rabbia. <Ora vieni qui, ti metti fermino e mi spieghi CHE CAZZO SUCCEDE!>
+
+L'ultimo grido riecheggiò sinistramente in tutto il cimitero.
+
+Lavinia continuò, sciumante di ira: <>
 
 // dove sta scritto che debba tramare una sola persona per volta?
