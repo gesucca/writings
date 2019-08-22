@@ -83,7 +83,7 @@ Lavinia esplose.
 
 Buttò via il crisantemo ormai stritolato, si tolse una scarpa e la lanciò dietro a Fabio con tutta la forza che aveva.
 
-<COSA CAZZO SUCCEDE> urlò, completamente fuori di sé. <FERMO, FERMO DIO B -> lanciò l'altra scarpa.
+<COSA CAZZO SUCCEDE> urlò, completamente fuori di sé. <FERMO --- FERMO, DIO B -> lanciò l'altra scarpa.
 
 Fabio si fermò, ma non si voltò.
 
