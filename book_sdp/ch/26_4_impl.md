@@ -6,7 +6,7 @@ Né Denise né Vittoria osarono muoversi o fiatare. Ne avevano parlato la sera p
 
 Senza parlare, senza respirare o anche solo sbattere le palpebre, Fabio lentamente si mosse; la testa alta, il passo incredulo ma fremente, prese il vialetto e andò incontro al proprio destino.
 
-<Scommettiamo che la uccide?>, bisbigliò Vittoria alla sua compagna, la quale la zittì con una violenta gomitata nelle costole.
+(<Scommettiamo che la uccide?>, bisbigliò Vittoria alla sua compagna, la quale la zittì con una violenta gomitata nelle costole.)
 
 Non appena i due furono a opchi passi di distanza, Lavinia alzò distrattamente lo sguardo da terra e si fermò. <Sì?> chiese distrattamnete al tizio che le si era parato davanti.
 
@@ -49,13 +49,13 @@ La vice di Fabio era andata a salire sul finire della frase. L'ardore ritornò p
 
 Qualcosa dentro Lavinia parve rompersi; quasi inciampò sui suoi piedi pur essendo ferma, ed emise un penoso lamento interrogativo.
 
-Fabio non le dette tempo di aggiungere altro. <Lasciamo perdere, parliamo un momento di te. Se una ragazza non ha né arte né parte in tutto il mondo, e vuole solo raccogliere dalla vita il meglio che trova, magari può trovarsi un coglione qualunque che la desidera per viverci insieme e dividersi le fatiche della vita. Se poi ne trova addirittura un altro, e se in fondo gli sta più che bene perché alla fine le attenzioni gli piacciono, può succedere che alla fine lei si inganni per addolcire la realtà, per mascherarsi il fatto che in realtà è una stronza opportunista che mantiene una relazione solo per il comodo di dividere gli oneri della vita, magari in attesa del momento opportuno per fare il ribaltone e andare con l'altro tizio. E se questa ragazza non si accorge - o addirittura non gli importa dell'effetto che il suo essere troia fino al midollo fa alle persone che gli stanno intorno e che magari le vogliono bene, questa ragazza è o non è una puttana?>
+Fabio non le dette tempo di aggiungere altro. <Lasciamo perdere, parliamo un momento di te. Se una ragazza non ha né arte né parte in tutto il mondo, e vuole solo raccogliere dalla vita il meglio che trova, magari può trovarsi un coglione qualunque che la desidera per viverci insieme e dividersi le fatiche della vita. Se poi ne trova addirittura un altro, e se in fondo gli sta più che bene perché alla fine le attenzioni gli piacciono, può succedere che alla fine lei si inganni per addolcire la realtà, per mascherarsi il fatto che in realtà è una stronza opportunista che mantiene una relazione solo per il comodo di dividere gli oneri della vita, magari in attesa del momento opportuno per fare il ribaltone e andare con l'altro tizio. E se questa ragazza non si accorge - o addirittura non gli importa dell'effetto che il suo essere troia fino al midollo fa alle persone che gli stanno intorno e che magari le  vogliono bene, questa ragazza è o non è una puttana?>
 
 Fabio aveva le fauci asciutte. Ribolliva di rabbia, il suo discorso aveva seguito uncrescendo di itnensità tale dall'aver ringhiato le ultime parole.
 
 Lavinia aveva ascoltato rapita ogni cosa che aveva detto FAbio. Era pallida, sudata, addolorata dal sentir dire quelle parole dalla persona che amava; eppur enon disse ancora niente. Le sue mani stringevano così forte il crisantemo che aveva preso per il Bagonghi da avern quasi stritolato il gambo.
-rassegnata
-<Comunque, non ha pirassegnataù importanza>, concluse Fabio, ora calmo, una nota di rrassegnataassegnazione nella voce. <Sono solo cose che mi sono accorto che ti avrei voluto dire da tanto tempo, ma non abbiamo più avuto occasioni di parlare con franchezza da tanto, tanto tempo.>
+
+<Comunque, non ha più importanza>, concluse Fabio, ora calmo, una nota di rrassegnataassegnazione nella voce. <Sono solo cose che mi sono accorto che ti avrei voluto dire da tanto tempo, ma non abbiamo più avuto occasioni di parlare con franchezza da tanto, tanto tempo.>
 
 Fabio si voltò con una certa, bizzarra solennità. <Offri pure quel fiore al povero Bruno, dagli l'ultimo saluto come meglio credi, poi vattene.>
 
@@ -83,14 +83,20 @@ Lavinia esplose.
 
 Buttò via il crisantemo ormai stritolato, si tolse una scarpa e la lanciò dietro a Fabio con tutta la forza che aveva.
 
-<COSA CAZZO SUCCEDE> urlò, completamente fuori di sé. <FERMO --- FERMO, DIO B -> lanciò l'altra scarpa.
+<COSA CAZZO SUCCEDE> urlò, completamente fuori di sé. <FERMO --- FERMO, *DIO B ---*> lanciò l'altra scarpa.
 
 Fabio si fermò, ma non si voltò.
 
-<Ora te vieni qui> ringhiò, la voce vibrante per la rabbia. <Ora vieni qui, ti metti fermino e mi spieghi CHE CAZZO SUCCEDE!>
+<Ora te... sì, *ora te 'ttu vieni 'ui*> ringhiò, la voce vibrante per la rabbia. <*Ora 'ttu pigli, tu 'tti metti fermino*, sì, e *'ttu* mi spieghi un po' CHE CAZZO STA SUCCEDENDO!>
 
 L'ultimo grido riecheggiò sinistramente in tutto il cimitero.
 
-Lavinia continuò, sciumante di ira: <>
+(Poco lontano, Vittoria bisbigliò: <Se avessimo scommesso davvero, va a finire che avrei perso!>)
+
+Lavinia continuò, sciumante di ira: <*E' da quande t'ha' preso e ttu se' spari'o che gl'è tutto un succede' di roba che nemmeno a i' telegiornale!* >
+
+Fabio si voltò a guardare la sua vecchia compagna di vita. Non disse niente, ma il suo volto mostrava tutto il suo dolore.
+
+<** >
 
 // dove sta scritto che debba tramare una sola persona per volta?
