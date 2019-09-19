@@ -28,6 +28,8 @@ Fabio proseguì: <Dimmi, Lavinia, se una luce ne oscura altre è sempre luce?>
 
 ?? Una nuvola passeggera coprì coreograficamente il sole.
 
+(<Dai, venti euro su lei morta, niente morti si patta?>, bisbigliò Vittoria alla sua compagna, la quale la zittì con una violenta gomitata nelle costole.)
+
 Lavinia non parve far caso a quelle parole. La sua attenzione era fissa su Fabio, il suo sgurado lo esplorava avidamente, come se volesse capire se era davvero lui. <Come stai?,> gli chiese con le lacrime che stavano cominciando a sgorgare dai suoi occhi.
 
 <Se un bene fa del male, è davvero bene?> domandò di nuovo Fabio, gli occhi fissi sulla sua ex compagna di vita. <Se per amore menti, o rubi, o uccidi, sei comunque una persona buona?>
@@ -93,9 +95,21 @@ L'ultimo grido riecheggiò sinistramente in tutto il cimitero.
 
 (Poco lontano, Vittoria bisbigliò: <Se avessimo scommesso davvero, va a finire che avrei perso!>)
 
-Lavinia continuò, sciumante di ira: <*E' da quande t'ha' preso e ttu se' spari'o che gl'è tutto un succede' di roba che nemmeno a i' telegiornale!* >
+Lavinia continuò, sciumante di ira: <*E' da quande t'ha' preso e ttu se' spari'o che gl'è tutto un succede' di roba che nemmeno a i' telegiornale! Ho chiamato e' harabinieri, la polizia, la guardia nazionale, i' porco d'Idd --- nulla! Poi gl'è spari'o anche i' Brogelli! Ora i' Bagonghi s'è fatto ammazzare da i'Leka, e tu'sentissi icché mi vien'a 'ddire quell'attro rintrona'o d'i Gazzi, tu gli stiaccerest'iccapo!>
 
-Fabio si voltò a guardare la sua vecchia compagna di vita. Non disse niente, ma il suo volto mostrava tutto il suo dolore.
+Fabio si voltò di scatto a guardare la sua vecchia compagna di vita, il volto solcato dal dolore e da un'improvvisa rabbia. <Non temere>, sbottò a denti stretti, <il tuo amichetto Giacomo farà presto la fine che --->
+
+<CHETO!>, ruggì ferocemente Lavinia, interrompendolo e quasi spettinandolo. La ragazza fece un aggressivo passo in avanti; Fabio non indietreggiò, ma non poté fare a meno di sussultare di fronte a quella furia.
+
+Lavinia sputò le parole come fossero veleno. <Amichetto una bella sega! Tutte le speranze che mi ha dato, le cazzate che ha detto eccetera>
+
+Il mondo di Fabio si inceppò. I colori, ancora fin troppo vividi a causa della droga, si spensero di colpo, ed il suo occhio sinistro si contrasse di scatto per alcune volte.
+
+quindi gazzi con te niente? non ha guadagnato la tua fiducia eccetera?
+
+Lavinia spalancò la bocca per lo stupore <EH?> <Gl'ha scritto su i' gruppo che t'ha' fatto degl'affari che neanche la mi nonna quand'e guarda Quarto Grado! * >
+
+ ???
 
 <** >
 
