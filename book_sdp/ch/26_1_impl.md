@@ -18,7 +18,7 @@ Quel treno di pensieri portava in una direzione terribile: se lui non sapeva che
 
 Non riuscì a fare il collegamento ovvio; si rifiutò. 
 
-Riportò il pensiero sulla sua amica Denise. Le cose che lei gli aveva detto lo avevano scosso, ma in fondo non era niente che non sapesse già. Fabio sapeva di avere una malsana paura del dolore, lo aveva sempre saputo. Era sempre stato al corrente che quella paura aveva distorto la sua ragione e gli aveva fatto prendere delle pessime decisioni --- ma quella consapevolezza era stata peggio che inutile. L'impulso di fuga dal dolore era stato semplicemente irresistibile, un comportamento istintivo agente ad un livello così profondo da non poter essere combattuto coscientemente. 
+Riportò il pensiero sulla sua amica Denise. Le cose che lei gli aveva detto lo avevano scosso, ma in fondo non era niente che non sapesse già. Fabio sapeva di avere una malsana paura del dolore, lo aveva sempre saputo. Era sempre stato al corrente che quella paura aveva distorto la sua ragione e gli aveva fatto prendere delle pessime decisioni --- ma quella consapevolezza era stata peggio che inutile. L'impulso di fuga era stato semplicemente irresistibile, un comportamento istintivo agente ad un livello così profondo da non poter essere combattuto coscientemente. 
 
 Sapere di commettere un errore mortale, ma non potersi impedire di compierlo: che cos'era quella se non l'ennesima conferma che Fabio, in fondo, era matto da legare?
 
@@ -48,7 +48,7 @@ Fabio doveva mantenere la sua promessa; come avrebbero potuto non comparire dei 
 
 Fabio cominciò a sentirsi un po' a disagio per quanto la situazione fosse sinistra, ma si tranquillizzò quasi subito, ricordandosi di essere pazzo. 
 
-Con rassegnata lentezza, scartò la scarola e ne estrasse un sigaro. Non apprezzava particolarmente i Toscanelli, ma una promessa era una promessa: se lo mise in bocca ed attese fiducioso che il destino lo accendesse con un fulmine a ciel sereno. 
+Con rassegnata lentezza, scartò la scatola e ne estrasse un sigaro. Non apprezzava particolarmente i Toscanelli, ma una promessa era una promessa: se lo mise in bocca ed attese fiducioso che il destino lo accendesse con un fulmine a ciel sereno. 
 
 Non successe niente.
 

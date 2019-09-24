@@ -95,19 +95,29 @@ L'ultimo grido riecheggiò sinistramente in tutto il cimitero.
 
 (Poco lontano, Vittoria bisbigliò: <Se avessimo scommesso davvero, va a finire che avrei perso!>)
 
-Lavinia continuò, sciumante di ira: <*E' da quande t'ha' preso e ttu se' spari'o che gl'è tutto un succede' di roba che nemmeno a i' telegiornale! Ho chiamato e' harabinieri, la polizia, la guardia nazionale, i' porco d'Idd --- nulla! Poi gl'è spari'o anche i' Brogelli! Ora i' Bagonghi s'è fatto ammazzare da i'Leka, e tu'sentissi icché mi vien'a 'ddire quell'attro rintrona'o d'i Gazzi, tu gli stiaccerest'iccapo!>
+Lavinia continuò, schiumante di ira: <*E' da quande t'ha' preso e ttu se' spari'o che gl'è tutto un succede' di roba che nemmeno a i' telegiornale! Ho chiamato e' harabinieri, la polizia, la guardia nazionale, i' porco d'Idd --- nulla! Poi gl'è spari'o anche i' Brogelli! Ora i' Bagonghi s'è fatto ammazzare da i'Leka, e tu'sentissi icché mi vien'a 'ddire quell'attro rintrona'o d'i Gazzi, tu gli stiaccerest'iccapo!>
 
 Fabio si voltò di scatto a guardare la sua vecchia compagna di vita, il volto solcato dal dolore e da un'improvvisa rabbia. <Non temere>, sbottò a denti stretti, <il tuo amichetto Giacomo farà presto la fine che --->
 
 <CHETO!>, ruggì ferocemente Lavinia, interrompendolo e quasi spettinandolo. La ragazza fece un aggressivo passo in avanti; Fabio non indietreggiò, ma non poté fare a meno di sussultare di fronte a quella furia.
 
-Lavinia sputò le parole come fossero veleno. <Amichetto una bella sega! Tutte le speranze che mi ha dato, le cazzate che ha detto eccetera>
+Lavinia sputò le parole come fossero veleno. <Amichetto? Quella serpe!? *Se 'ttu sentissi la metà d'icché m'ha racconta'o* --- te un tu'nnha' un'idea!>
 
 Il mondo di Fabio si inceppò. I colori, ancora fin troppo vividi a causa della droga, si spensero di colpo, ed il suo occhio sinistro si contrasse di scatto per alcune volte.
 
-quindi gazzi con te niente? non ha guadagnato la tua fiducia eccetera?
+<Cosa>, disse piano, senza emozione.
 
-Lavinia spalancò la bocca per lo stupore <EH?> <Gl'ha scritto su i' gruppo che t'ha' fatto degl'affari che neanche la mi nonna quand'e guarda Quarto Grado! * >
+<Cosa?>, gli fece eco Lavinia.
+
+Fabio prese un bel respiro. <Te mi stai dicendo>, scandì cautamente <che ...  Stai --- stai dicendo questo?>
+
+Una risata 
+
+Lavinia spalancò la bocca per lo stupore <EH?> <Gl'ha scritto su i' gruppo che t'ha' fatto degl'affari che neanche la mi nonna quand'e guarda Quarto Grado! Prima t'ave'i la russa, poi la cinese, poi e' debiti di gioco* - >
+
+La voce della ragazza fu rotta da un singhiozzo. <*Te un tu'nn'ha' un'idea...* Io... Mesi e mesi a sentirmi dire queste cose su di te... Senza potergli dire di chiudere quella fogna e di andare a nascondersi, senza potergli andare n'i'vviso a dirgli di...###>
+
+
 
  ???
 
