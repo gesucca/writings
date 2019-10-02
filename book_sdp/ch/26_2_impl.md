@@ -50,7 +50,7 @@ Fabio rimase un po' interdetto. «Non sei un darkettone e tra un po' è mattina,
 
 Non ci fu risposta, ed il silenzio tornò fra i due per dei lunghi istanti.
 
-«Dimmi, Fabio», parlò finalmente il custode, «perdona la mia curiosità: perché sei scomparso? Era intuibile che non ti fosse successo niente, che te ne fossi andato di tua volontà --- allora dimmi, perché hai voluto andartene?»
+«Dimmi, Fabio», parlò il presunto custode, «perdona la mia curiosità: perché sei scomparso? Era intuibile che non ti fosse successo niente, che te ne fossi andato di tua volontà --- allora dimmi, perché hai voluto andartene?»
 
 Fabio fu secco: «Non mi va di parlarne.»
 
@@ -62,13 +62,13 @@ Il custode lo incalzò: «Una lealtà ammirevole la tua, ma mi cheido se in real
 
 Fabio si voltò a guardare l'uomo dritto nell'oscurità del suo cappuccio. «Sai dove posso trovare il Leka?»
 
-«Oh, sì», fece quello, la voce carica di un'emozione indecifrabile. «Sì, so proprio dove trovarlo --- ah, ed è più vicino a noi di quanto tu possa pensare!»
+«Oh, lui? Sì...» fece quello, la voce carica di un'emozione indecifrabile. «Sì, so proprio dove trovarlo --- ah, ed è più vicino a noi di quanto tu possa pensare!»
 
-I muscoli di Fabio si irrigidirono per un momento, ma subito si rilassò, accasciandosi contro la lapide.
+I muscoli di Fabio si irrigidirono di scatto, ma durò solo un momento; con lo sgaurdo perso nel vuoto, si abbandonò di nuovo contro la lapide.
 
 «Non mi interessa», disse stancamente. «A che servirebbe? Non mi ridarebbe il Bagonghi, né metterebbe a posto la mia vita. Non servirebbe a niente se non a farmi diventare sempre più scemo, sempre più diviso, sempre meno... beh, sempre meno me. Non voglio più uccidere.»
 
-«Ti manca la fermezza per farlo?» chiese l'uomo, la voce tagliente e severa. «Hai paura di non riuscirci, nemmeno con qualcuno che merita tutta la tua ira?»
+«Ti manca la fermezza per farlo?» chiese l'uomo, la voce tagliente e severa. «Hai paura di non esserne in grado, nemmeno con qualcuno che merita tutta la tua ira?»
 
 «Oh, ci riuscirei, eccome. Anzi, credo che uccidere sia una delle cose meno peggiori che ho fatto ultimamente.»
 
@@ -80,7 +80,7 @@ L'uomo rise forte. «Stai confessando di essere un assassino, ma ti premuri di n
 
 Anche Fabio rise. «Sì, scusa, forse è l'abitudine --- oh, ma lascia perdere. Sai qual'è la cosa interessante di tutto questo? Che ogni volta che ho ucciso, l'ho fatto per proteggere qualcuno. Cristo santo, stasera ogni cosa che dico è un cliché, che diavolo mi succede? Insomma, dicevo... quando invece avrei potuto uccidere ma non l'ho fatto... quando ho assaporato quel potere, quando ho goduto nello sbandierare la mia possibilità di concedere la vita invece della morte... è stato allora che ho toccato il mio fondo.»
 
-L'uomo stette in silenzio per un po', come se stesse pensando velocemente a qualcosa. Quando finalmente parlò, lo fece sussurrando: «Il potere è quando abbiamo ogni giustificazione per uccidere, ma non lo facciamo».
+L'uomo stette in silenzio per un po', come se stesse pensando velocemente a qualcosa. Quando finalmente parlò, lo fece sussurrando: «Tu mi parli del potere di uccidere? Ingenuo. Il vero potere è quando abbiamo ogni giustificazione per uccidere, ma non lo facciamo».
 
 «Sì, l'ho visto anch'io quel film», rispose Fabio. «Anche se credo che la morale lì fosse un pelo diversa dalla mia.»
 
@@ -104,11 +104,11 @@ Il tempo si era come fermato.
 
 Finalmente, tutto aveva un senso. Come poteva non esserci il Gazzi dietro tutto quello che era successo al povero Bruno? Gazzi gli aveva portato via il suo amico. Gazzi gli avva portato via la donna. E se due più due faceva quattro, anche Daniele era morto per colpa di Gazzi, in qualche strano e distorto modo. Aveva perfettamente, pericolosamente senso.
 
-Una strana visione riaffiorò nella mente di Fabio, un alto e pallido Gazzi,bizzarramente incarnato in un simulacro dell'arcinemesi della saga di Harry Potter, il terribile Lord Voldemort; il male puro e semplice, senza sfumature, senza ambiguità. Il significato di quell'immagine era fin troppo chiaro: Giacomo Gazzi era l'arcinemesi di Fabio Fontanelli, il nemico giurato con cui non ci sarebbe mai potuta essere pace. *Nessuno dei due può vivere se l'altro sopravvive...*
+Una strana visione riaffiorò nella mente di Fabio, un alto e pallido Gazzi,bizzarramente incarnato in un simulacro dell'arcinemesi della saga di Harry Potter, il terribile Lord Voldemort; il male puro e semplice, senza sfumature, senza ambiguità. Il significato di quell'immagine era fin troppo chiaro: Giacomo Gazzi era l'opposto di Fabio Fontanelli, il nemico giurato con cui non ci sarebbe mai potuta essere pace. *Nessuno dei due può vivere se l'altro sopravvive...*
 
 La voce dell'uomo nel cimitero penetrò nei pensieri di Fabio, rimbombante come quella della profezia che aveva ricordato. «Quindi», annunciò con tono definitivo, «se mai decidessi che in fondo non c'è niente di male ad avere la tua meritata vendetta... beh, non sono affari miei, ma credo che dovresti dirigerla verso di questo Gazzi.»
 
-Fabio annuì assente, perso nei meandri della sua mente. Per dei lunghi istanti fissò il nulla davanti a sé, riflettendo sulla metafora che le visioni lisergiche gli avevano donato mentre un Gazzi-Voldemort danzava balordo nella sua immaginazione.
+Fabio annuì assente, perso nei meandri della sua mente. Per dei lunghi istanti fissò il nulla davanti a sé, riflettendo sulla metafora che le visioni lisergiche gli avevano donato, mentre un Gazzi-Voldemort danzava balordo nella sua immaginazione.
 
 «Tutto bene?» disse l'uomo dopo un po'.
 

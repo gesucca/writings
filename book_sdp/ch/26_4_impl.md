@@ -12,7 +12,7 @@ Non appena i due furono a opchi passi di distanza, Lavinia alzò distrattamente 
 
 Fabio non rispose subito. Vedere la sua ex compagna di vita in quello stato gli causava una strana sensazione. Portava il vestito buono, il più elegante che aveva; tuttavia era spiegazzato, non propriamente sporco ma comunque si vedeva che non era fresco di armadio. Lo avevano comprato insieme, in un caldissimo sabato pomeriggio di luglio, in una delle rarissime volte in cui Fabio aveva acconsentito a fare un uscita mirata per fare shopping a buon mercato. Un'increspatura quasi apparve sulle sue labbra al ricordo: Fabio odiava quelle spedizioni, ma quasi sempre tornava a casa con un bottino migliore della sua compagna. L'increspatura scomparve subito non appena realizzò l'ovvia implicazione: si era messa quel vestito perché era l'unico vestito nero che possedeva. Non amava vestire di nero, Lavinia Gori; non si vestiva di nero quasi mai, né nelle serate metal al Cipher, né al concerto stesso degli Iron Maiden; nemmeno alle serate eleganti per le quali aveva appositamente comprato quel capo d'abbigliamento. Solo la morte di un caro amico la aveva fatta vestire di nero.
 
-Fabio si sentiva molto strano. Molti ricordi di vita quotidina con Lavinia gli stavano balenando in mente, scuotendo intensamente le sue fondamenta; era come se la memoria gli stesse tornando dopo tanto tempo, ma Fabio non credevadi aver mai dimenticato niente. Aveva evitato quei ricordi perché gli facevano male, ed anche adesso che gli si presentavano all'attenzione contro la sua volontò non era sicuro di che cosa provava.
+Fabio si sentiva molto strano. Molti ricordi di vita quotidina con Lavinia gli stavano balenando in mente, scuotendo intensamente le sue fondamenta; era come se la memoria gli stesse tornando dopo tanto tempo, ma Fabio non credevadi aver mai dimenticato niente. Aveva evitato quei ricordi perché gli facevano male, ed anche adesso che gli si presentavano all'attenzione contro la sua volontà non era sicuro di che cosa provava.
 
 La voce di Lavinia lo riscosse. <Scusa>, fece, la voce piccola e distratta, <avrei da pass - >
 
@@ -28,19 +28,19 @@ Fabio proseguì: <Dimmi, Lavinia, se una luce ne oscura altre è sempre luce?>
 
 ?? Una nuvola passeggera coprì coreograficamente il sole.
 
-(<Dai, venti euro su lei morta, niente morti si patta?>, bisbigliò Vittoria alla sua compagna, la quale la zittì con una violenta gomitata nelle costole.)
-
 Lavinia non parve far caso a quelle parole. La sua attenzione era fissa su Fabio, il suo sgurado lo esplorava avidamente, come se volesse capire se era davvero lui. <Come stai?,> gli chiese con le lacrime che stavano cominciando a sgorgare dai suoi occhi.
 
 <Se un bene fa del male, è davvero bene?> domandò di nuovo Fabio, gli occhi fissi sulla sua ex compagna di vita. <Se per amore menti, o rubi, o uccidi, sei comunque una persona buona?>
 
 Un barlume rosso attraversò brevemente gli occhi di Fabio. Sul suo volto si dipinse unìespressione dura, risoluta, e i suoi occhi divennero duri, insostenibili, come se stesse cercando di incendiare la sua vecchia compagna di vita con il solo sguardo.
 
+(<Dai, venti euro su lei morta, niente morti si patta?>, bisbigliò Vittoria alla sua compagna, la quale la zittì con una violenta gomitata nelle costole.)
+
 <Se ogni tanto sbirci nell'abisso solo per vedere l'effetto che fa, e ogni tanto ti concedi qualche piccola deviazione dal sentiero giusto, per prenderti quella piccola soddisfazione che ti fa andare avanti, sei sempre buono?>
 
 La voce di Fabio si indurì ancora di più. Una terribile furia si era come impadronita di ui.
 
-<Se invece a un certo non ne puoi semplicemente più e dici basta, e cominci a cercare di vivere peggio che puoi, tuffandoti in un abisso oscuro senza la minima esitazione ogni volta che ne hai l'occasione con la folle, disperata  speranza di perderti, di non essere più lo stesso quando torni su. Ma sono solo momenti, e quando passano ti rendi conto che in realtà sei sempre il solito coglione di sempre, soffocato dallo stesso dolore, condannato a patire per sempre senza avere altro che insignificanti vendette contro il mondo ogni volta in cui fai de lmale a qualcuno! Dimmi, Lavinia - se questo è il tuo destino, sei una persona buona?>
+<Se invece a un certo non ne puoi semplicemente più e dici basta, e cominci a cercare di vivere peggio che puoi, tuffandoti in un abisso oscuro senza la minima esitazione ogni volta che ne hai l'occasione con la folle, disperata  speranza di perderti, di non essere più lo stesso quando torni su. Ma sono solo momenti, e quando passano ti rendi conto che in realtà sei sempre il solito coglione di sempre, soffocato dallo stesso dolore, condannato a patire per sempre senza avere altro che insignificanti vendette contro il mondo ogni volta in cui fai del male a qualcuno! Dimmi, Lavinia - se questo è il tuo destino, sei una persona buona?>
 
 Lavinia parve aver ascoltato attentamente di ciò che Fabio aveva detto. I loro sguardi si incrociarono di nuovo, e nel suo cominciarono a comparire delle lacrime. <Questo - è così che stai?> chiese, la voce piccola e già rotta dal pianto.
 
@@ -93,7 +93,7 @@ Fabio si fermò, ma non si voltò.
 
 L'ultimo grido riecheggiò sinistramente in tutto il cimitero.
 
-(Poco lontano, Vittoria bisbigliò: <Se avessimo scommesso davvero, va a finire che avrei perso!>)
+(Poco lontano, Vittoria bisbigliò: <Ultima offerta, dieci euro morto lui!> Denise non si disturbò a rimproverarla)
 
 Lavinia continuò, schiumante di ira: <*E' da quande t'ha' preso e ttu se' spari'o che gl'è tutto un succede' di roba che nemmeno a i' telegiornale! Ho chiamato e' harabinieri, la polizia, la guardia nazionale, i' porco d'Idd --- nulla! Poi gl'è spari'o anche i' Brogelli! Ora i' Bagonghi s'è fatto ammazzare da i'Leka, e tu'sentissi icché mi vien'a 'ddire quell'attro rintrona'o d'i Gazzi, tu gli stiaccerest'iccapo!>
 

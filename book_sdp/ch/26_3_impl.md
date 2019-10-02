@@ -4,7 +4,7 @@ Un irritante stridolio proveniente dalla cappella lo riscosse dai suoi vaneggiam
 
 Un sordo *thud* lo interruppe bruscamente.
 
-« Cazzo te strilli, CHE CAZZO TE STRILLI?! » tuonò un'altra voce impastata, più aggressiva ma assai meno irritante dell'altra.
+« ...cazzo te strilli, CHE CAZZO TE STRILLI?! » tuonò un'altra voce impastata, più aggressiva ma assai meno irritante dell'altra.
 
 «I miei capelli sono un disastro...» piagnucolò quella che sicuramente era Vittoria.
 
@@ -18,7 +18,7 @@ Denise sbadigliò copiosamente prima di rispondere. «Sta' zitto» biascicò, la
 
 Vittoria prese a divincolarsi e ricominciò a stridere: «*Lasciamiiiii* --- »
 
-In un attimo, Denise cambiò la presa e soffocò il fastidioso lamento con un braccio. «Buongiorno», scandì all'orecchio di Vittoria. «Buongiorno, ho detto», ripeté minacciosa. Le morse appena l'orecchio, poi la lasciò andare.
+In un attimo, Denise cambiò la presa e soffocò il fastidioso lamento con un braccio. «*Buongiorno*, ho detto», scandì minacciosa, come se volesse scolpire quel concetto direttamente sul cranio di Vittoria.
 
 Fabio non aveva idea di come reagire a tutto quello. «Voi due siete qualcosa di male», disse sconsolato. «Temo di aver commesso un grave errore a farvi conoscere.»
 
@@ -34,9 +34,9 @@ Fabio sospirò ancora. Esitò un attimo, poi rispose quasi in un sussurro: «Mi 
 
 «Si capisce», rispose subito Denise. «Questo acido è una roba incredibile, non avevo mai provato niente del genere. Ho visto cose --- ho *fatto* cose che... beh, non avrei mai creduto possibili.»
 
-Vittoria le lanciò un'occhiata arrossì violentemente.
+Vittoria le lanciò una fugace occhiata e arrossì violentemente.
 
-Fabio proseguì, apparentemente non interessato alla faccenda: «Anche io ho visto cose impossibili; è una droga allucinogena, in fondo. Ma non è quello che mi fa sentire strano. E’ quello di cui mi sono accorto che mi turba. Ho avuto varie intuizioni, assaggi di sentimenti di cui non mi ero accorto. Però, se dovessi dirti che ho capito tutto, ti direi sicuramente una cazzata. »
+Fabio proseguì, apparentemente non interessato alla faccenda: «Anche io ho visto cose impossibili; è una droga allucinogena, in fondo. Ma non è quello che mi fa sentire strano. Piuttosto, è quello di cui mi sono accorto che mi turba. Ho avuto varie... intuizioni, chiamiamole così, vari assaggi di sentimenti di cui non mi ero ancora accorto. Però, se dovessi dirti che ho capito tutto, ti direi sicuramente una cazzata. »
 
 Sul volto di Denise fu chiaramente visibile il dispiacere. «Non è servito proprio a niente?», chiese con la voce piccola piccola.
 
@@ -48,7 +48,7 @@ Se non avesse conosciuto bene la su amica, Fabio avrebbe potuto giurare di aver 
 
 «Non importa», fece lei, riscuotendosi. Guardò Fabio dritto negli occhi. «Quello che ho fatto l’ho fatto perché lo ritenevo giusto, e se non è servito a niente, o se addirittura ti ha fatto male... ti chiedo scusa e ne trarrò le conseguenze. Ma se tornassi indietro lo rifarei, perché l’ho fatto perché mi sembrava giusto.»
 
-Fabio non sapeva cosa dire. Non aveva mai sentio Denise dire quelle cose (ah no??? cotrolla); evidentemente, l’esperienza mistica non aveva scosso soltanto lui.
+Fabio non sapeva cosa dirle; evidentemente, l’esperienza mistica non aveva scosso soltanto lui.
 
 «Hai fatto la cosa giusta», disse improvvisamente Vittoria, la voce bassa ma sicura.
 
