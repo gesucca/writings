@@ -101,7 +101,7 @@ Fabio si voltò di scatto a guardare la sua vecchia compagna di vita, il volto s
 
 <CHETO!>, ruggì ferocemente Lavinia, interrompendolo e quasi spettinandolo. La ragazza fece un aggressivo passo in avanti; Fabio non indietreggiò, ma non poté fare a meno di sussultare di fronte a quella furia.
 
-Lavinia sputò le parole come fossero veleno. <Amichetto? Quella serpe!? *Se 'ttu sentissi la metà d'icché m'ha racconta'o* --- te un tu'nnha' un'idea!>
+Lavinia sputò le parole come fossero veleno. <Amichetto? Quella serpe!? *Se 'ttu sentissi la metà d'icché m'ha racconta'o* --- te un tu'nnha' un'idea! Ogni volta che ne succedeva una, lui l'era sempre a dire male di quello e di quell'altro, se uno mi diceva coppe lui mi veniva a dire che era picche! Io sta'o 'n pena, e lui gl'era lì a dì male di te, di me e di tutti quelli che m'hanno ma' detto una parola di conforto!>
 
 Il mondo di Fabio si inceppò. I colori, ancora fin troppo vividi a causa della droga, si spensero di colpo, ed il suo occhio sinistro si contrasse di scatto per alcune volte.
 
@@ -109,18 +109,29 @@ Il mondo di Fabio si inceppò. I colori, ancora fin troppo vividi a causa della 
 
 <Cosa?>, gli fece eco Lavinia.
 
-Fabio prese un bel respiro. <Te mi stai dicendo>, scandì cautamente <che ...  Stai --- stai dicendo questo?>
+Fabio prese un bel respiro. <Te mi stai dicendo>, scandì cautamente <che *sai* che il Gazzi è una serpe. Lo *sai* che per lui mettere zizzania è come respirare, e lo *sai* che ti ha sempre raccontato un sacco di cazzate. Stai --- stai dicendo questo?>
 
-Una risata 
+<Eh!> fece Lavinia, insofferente. <Che mi se' diventa'o grullo? Tu lo sa''nche te come fa! Gl'ha scritto su i' gruppo che t'ha' fatto degl'affari che neanche la mi nonna quand'e guarda Quarto Grado! Prima t'ave'i la russa, poi la cinese, poi e' debiti di gioco* - > La voce della ragazza fu rotta da un singhiozzo. <*Te un tu'nn'ha' un'idea...* Io... Mesi e mesi a sentirmi dire queste cose su di te... Senza potergli dire di chiudere quella fogna e di andare a nascondersi, senza potergli andare n'i'vviso a digli --- lascia fare, guarda!>
 
-Lavinia spalancò la bocca per lo stupore <EH?> <Gl'ha scritto su i' gruppo che t'ha' fatto degl'affari che neanche la mi nonna quand'e guarda Quarto Grado! Prima t'ave'i la russa, poi la cinese, poi e' debiti di gioco* - >
+Il cerchio si chiuse, e Fabio andò finalmente a sbattere alla velocità della luce contro il granitico muro della realtà.
 
-La voce della ragazza fu rotta da un singhiozzo. <*Te un tu'nn'ha' un'idea...* Io... Mesi e mesi a sentirmi dire queste cose su di te... Senza potergli dire di chiudere quella fogna e di andare a nascondersi, senza potergli andare n'i'vviso a dirgli di...###>
+Il suo più intimo terrore era lì, di fronte a lui. Non aveva via d'uscita: lo disse ad alta voce. <Pensavo che tu non mi volessi più. Che non vedessi l'ora di stare con lui.>
 
+Lavinia spalancò la bocca per lo stupore e si bloccò per alcuni secondi. <EH?> urlò finalmente, non appena riuscì a dar voce alla sua incredulità.
 
+(<Ecco, ora si rimettono insieme...> si lagnò Vittoria, prima di essere violentemente zittita per la terza volta.)
 
- ???
-
-<** >
+<Fabio...>
 
 // dove sta scritto che debba tramare una sola persona per volta?
+
+
+con gazzi:
+
+<Per me!?> fece Lavinia, minacciosa. <Io non la voglio di certo la tua carità! Ci penso da sola a vendicarmi --- e tra l'altro non mi voglio vendicare, e di certo non di lui!>
+
+Si rivolse al Gazzi con uno sguardo intriso del più puro disprezzo. <Lo so che persona sei, stronzo, viscido e marcio fino al budello! Ti piace, ti ecciti proprio a ficcare il dito nelle piaghe degli altri, a cercare di smerdare chiunque sia in difficoltà per sembrare più bello, più grande, più importante! Mi fai schifo, e per ogni cattiveria che hai sputato su di me e chi mi sta caro te ne farò ingoiare tre appena ne avrò l'occasione, puoi contarci. Ma *te*>
+
+Fabio fece un patetico salto all'indietro, come a volersi scansare dall'incandescente dito accusatorio che Lavinia gli aveva puntato contro.
+
+<Con *te* farò proprio i conti,>
