@@ -28,26 +28,27 @@ Fabio proseguì: <Dimmi, Lavinia, se una luce ne oscura altre è sempre luce?>
 
 ?? Una nuvola passeggera coprì coreograficamente il sole.
 
-Lavinia non parve far caso a quelle parole. La sua attenzione era fissa su Fabio, il suo sgurado lo esplorava avidamente, come se volesse capire se era davvero lui. <Come stai?,> gli chiese con le lacrime che stavano cominciando a sgorgare dai suoi occhi.
+Lavinia non parve far caso a quelle parole. La sua attenzione era fissa su Fabio, il suo sgurado lo esplorava avidamente, come se volesse capire se era davvero lui. <Come stai?> gli chiese con le lacrime che stavano cominciando a sgorgare dai suoi occhi.
 
 <Se un bene fa del male, è davvero bene?> domandò di nuovo Fabio, gli occhi fissi sulla sua ex compagna di vita. <Se per amore menti, o rubi, o uccidi, sei comunque una persona buona?>
 
-Un barlume rosso attraversò brevemente gli occhi di Fabio. Sul suo volto si dipinse unìespressione dura, risoluta, e i suoi occhi divennero duri, insostenibili, come se stesse cercando di incendiare la sua vecchia compagna di vita con il solo sguardo.
+Un barlume rosso attraversò brevemente gli occhi di Fabio. Sul suo volto si dipinse un'espressione dura, risoluta, e i suoi occhi divennero duri, insostenibili, come se stesse cercando di incendiare la sua vecchia compagna di vita con il solo sguardo.
 
-(<Dai, venti euro su lei morta, niente morti si patta?>, bisbigliò Vittoria alla sua compagna, la quale la zittì con una violenta gomitata nelle costole.)
+(<Dai, venti euro su lei morta, niente morti si patta?>, bisbigliò Vittoria alla sua compagna, la quale rispose nuovamente con un altro violento colpo di gomito.)
 
-<Se ogni tanto sbirci nell'abisso solo per vedere l'effetto che fa, e ogni tanto ti concedi qualche piccola deviazione dal sentiero giusto, per prenderti quella piccola soddisfazione che ti fa andare avanti, sei sempre buono?>
+Fabio tirò dritto col suo discorso. <Se ogni tanto sbirci nell'abisso solo per vedere l'effetto che fa, e ogni tanto ti concedi qualche piccola deviazione dal sentiero giusto, per prenderti quella piccola soddisfazione che ti fa andare avanti, sei sempre buono?>
 
-La voce di Fabio si indurì ancora di più. Una terribile furia si era come impadronita di ui.
+La sua voce si indurì ancora di più. Una terribile furia si era come impadronita di ui.
 
 <Se invece a un certo non ne puoi semplicemente più e dici basta, e cominci a cercare di vivere peggio che puoi, tuffandoti in un abisso oscuro senza la minima esitazione ogni volta che ne hai l'occasione con la folle, disperata  speranza di perderti, di non essere più lo stesso quando torni su. Ma sono solo momenti, e quando passano ti rendi conto che in realtà sei sempre il solito coglione di sempre, soffocato dallo stesso dolore, condannato a patire per sempre senza avere altro che insignificanti vendette contro il mondo ogni volta in cui fai del male a qualcuno! Dimmi, Lavinia - se questo è il tuo destino, sei una persona buona?>
 
-Lavinia parve aver ascoltato attentamente di ciò che Fabio aveva detto. I loro sguardi si incrociarono di nuovo, e nel suo cominciarono a comparire delle lacrime. <Questo - è così che stai?> chiese, la voce piccola e già rotta dal pianto.
+Lavinia parve aver ascoltato attentamente di ciò che Fabio aveva detto. I loro sguardi si incrociarono di nuovo, e nel suo cominciarono a comparire delle lacrime. <Questo --- questo che c'entra? E' così che stai?> chiese, la voce piccola e già rotta dal pianto.
 
 La faccia di Fabio si raggrinzì su sé stessa, come se si fosse improvvisamente rotta. Tutto il suo dolore parve mostrarsi su di essa. <Sì>, disse in un patitico squitìo.
 
 Durò solo un'istante.
-La vice di Fabio era andata a salire sul finire della frase. L'ardore ritornò potente nelle sue parole quando proseguì. Lo sguardo che Fabio le restituì avrebbe potuto ucciderla all'istante. <Scusami, non è importante. Sto esattamente come l'ultima volta che mi hai visto. Non ti interessava allora, non vedo perché dovrebbe interessarti adesso.>
+
+L'ardore ritornò potente nelle sue parole quando proseguì. Lo sguardo che Fabio le restituì avrebbe potuto ucciderla all'istante. <Scusami, non è importante. Sto esattamente come l'ultima volta che mi hai visto. Non ti interessava allora, non vedo perché dovrebbe interessarti adesso.>
 
 Qualcosa dentro Lavinia parve rompersi; quasi inciampò sui suoi piedi pur essendo ferma, ed emise un penoso lamento interrogativo.
 
@@ -55,9 +56,9 @@ Fabio non le dette tempo di aggiungere altro. <Lasciamo perdere, parliamo un mom
 
 Fabio aveva le fauci asciutte. Ribolliva di rabbia, il suo discorso aveva seguito uncrescendo di itnensità tale dall'aver ringhiato le ultime parole.
 
-Lavinia aveva ascoltato rapita ogni cosa che aveva detto FAbio. Era pallida, sudata, addolorata dal sentir dire quelle parole dalla persona che amava; eppur enon disse ancora niente. Le sue mani stringevano così forte il crisantemo che aveva preso per il Bagonghi da avern quasi stritolato il gambo.
+Lavinia aveva ascoltato rapita ogni cosa che aveva detto Fabio. Era pallida, sudata, addolorata dal sentir dire quelle parole dalla persona che amava; eppur enon disse ancora niente. Le sue mani stringevano così forte il crisantemo che aveva preso per il Bagonghi da avern quasi stritolato il gambo.
 
-<Comunque, non ha più importanza>, concluse Fabio, ora calmo, una nota di rrassegnataassegnazione nella voce. <Sono solo cose che mi sono accorto che ti avrei voluto dire da tanto tempo, ma non abbiamo più avuto occasioni di parlare con franchezza da tanto, tanto tempo.>
+<Comunque, non ha più importanza>, concluse Fabio, ora calmo, una nota di rassegnazione nella voce. <Sono solo cose che mi sono accorto che ti avrei voluto dire, ma non abbiamo più avuto occasioni di parlare con franchezza da tanto, tanto tempo.>
 
 Fabio si voltò con una certa, bizzarra solennità. <Offri pure quel fiore al povero Bruno, dagli l'ultimo saluto come meglio credi, poi vattene.>
 
@@ -121,7 +122,21 @@ Lavinia spalancò la bocca per lo stupore e si bloccò per alcuni secondi. <EH?>
 
 (<Ecco, ora si rimettono insieme...> si lagnò Vittoria, prima di essere violentemente zittita per la terza volta.)
 
-<Fabio...>
+Lavinia sembrava non trovare le parole adatte per esprimere quello che provava. <Fabio...> tentò, ma il suo tentativo si estinse subito.
+
+Fabio non disse niente; non aveva proprio altro da dire.
+
+Il silenzio si prolungò e i due se ne stettero lì, immobili, per diversi istanti, entrambi traditi dalla loro eloquenza.
+
+Una voce rassicurante ruppe lo stallo. <Siamo tutti un po' troppo agitati>, disse piano ma con decisione Denise, che nel frattempo si era avvicinata a Fabio e Lavinia. <Agitati tutti quanti, noi tre addirittura scompigliati e infreddoliti. Che ne dite di fare un bel respiro, sospendere per un attimo tutto quello che stava succedendo e andare a raccattare i nostri cocci? Il Bagonghi tanto non scappa, torneremo a trovarlo quando ci saremo presi cura di noi.>
+
+Il buonsenso di quelle parole permeò subito tutti quanti.
+
+<Sì> fece Fabio. <Io ho freddo. Cazzo se ho freddo -- non mi ero accorto fino a ora di avere freddo.>
+
+<Io ho dei capelli terribili> pigolò Vittoria. <Devo farmi la doccia, e poi la piastra --- avete una piastra e una spazzola da prestarmi? Ah, e anche una doccia.>
+
+<Te chi sei?> chiese debolmente Lavinia, ma Denise la bloccò subito: <Prima le docce e le piastre, poi le presentazioni. Abbiamo tante cose da raccontarcdi l'un l'altro, si capisce.>
 
 // dove sta scritto che debba tramare una sola persona per volta?
 
