@@ -90,7 +90,7 @@ Buttò via il crisantemo ormai stritolato, si tolse una scarpa e la lanciò diet
 
 Fabio si fermò, ma non si voltò.
 
-<Ora te... sì, *ora te 'ttu vieni 'ui*> ringhiò, la voce vibrante per la rabbia. <*Ora 'ttu pigli, tu 'tti metti fermino*, sì, e *'ttu* mi spieghi un po' CHE CAZZO STA SUCCEDENDO!>
+<Ora te... sì, *ora te 'ttu vieni qui*> ringhiò, la voce vibrante per la rabbia. <*Ora 'ttu pigli, tu 'tti metti fermino*, sì, e *'ttu* mi spieghi un po' CHE CAZZO STA SUCCEDENDO!>
 
 L'ultimo grido riecheggiò sinistramente in tutto il cimitero.
 
@@ -134,19 +134,10 @@ Il buonsenso di quelle parole permeò subito tutti quanti.
 
 <Sì> fece Fabio. <Io ho freddo. Cazzo se ho freddo -- non mi ero accorto fino a ora di avere freddo.>
 
+<E io sono scalza> fece Lavinia.
+
 <Io ho dei capelli terribili> pigolò Vittoria. <Devo farmi la doccia, e poi la piastra --- avete una piastra e una spazzola da prestarmi? Ah, e anche una doccia.>
 
 <Te chi sei?> chiese debolmente Lavinia, ma Denise la bloccò subito: <Prima le docce e le piastre, poi le presentazioni. Abbiamo tante cose da raccontarcdi l'un l'altro, si capisce.>
 
-// dove sta scritto che debba tramare una sola persona per volta?
-
-
-con gazzi:
-
-<Per me!?> fece Lavinia, minacciosa. <Io non la voglio di certo la tua carità! Ci penso da sola a vendicarmi --- e tra l'altro non mi voglio vendicare, e di certo non di lui!>
-
-Si rivolse al Gazzi con uno sguardo intriso del più puro disprezzo. <Lo so che persona sei, stronzo, viscido e marcio fino al budello! Ti piace, ti ecciti proprio a ficcare il dito nelle piaghe degli altri, a cercare di smerdare chiunque sia in difficoltà per sembrare più bello, più grande, più importante! Mi fai schifo, e per ogni cattiveria che hai sputato su di me e chi mi sta caro te ne farò ingoiare tre appena ne avrò l'occasione, puoi contarci. Ma *te*>
-
-Fabio fece un patetico salto all'indietro, come a volersi scansare dall'incandescente dito accusatorio che Lavinia gli aveva puntato contro.
-
-<Con *te* farò proprio i conti,>
+Senza dire altro, la strana comitiva che si era appena formata si apprestò a uscire dal cimitero, con la speranza di lasciarsi alle spalle non soltanto quel luogo maledetto, ma anche tutta la confusione, i dubbi e, soprattutto, il freddo che ognuno di loro aveva patito.
