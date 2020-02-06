@@ -24,7 +24,9 @@ Il tono di Giacomo Gazzi cambiò repentinamente; era come se le sue parole conte
 
 Denise considerò seriamente per un attimo di portarlo via di peso prima che gli raggiungessero il loro parapiglia sul vialetto.
 
-<Ultimo avvertimento Gazzi: vai via più veloce della luce. Ti chiamo io dopo pranzo, o dopo cena, o quando sarà il caso, promesso. >
+Si rassegnò a compiere un ultimo diplomatico tentativo: <Ultimo avvertimento Gazzi: vai via più veloce della luce. Ti chiamo io dopo pranzo, o dopo cena, o quando sarà il caso, promesso. >
+
+<Non esiste. Devo vederla e parlarle, *ora*.>
 
 Denise si arrese. Pronunciò la sua risposta coems e fosse una condanna a morte: <Fai come ti pare. Per me erano successe abbastanza disgrazie, ma se proprio ci tieni a farne succedere altre, fai pure.>
 
