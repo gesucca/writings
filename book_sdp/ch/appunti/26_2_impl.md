@@ -74,7 +74,7 @@ I muscoli di Fabio si irrigidirono di scatto, ma durò solo un momento; con lo s
 
 La voce dell'uomo si ammorbidì. «Non puoi dirmi una cosa del genere e sperare che me la beva così. Ora voglio sapere che diavolo hai combinato di peggio.»
 
-«Oh, un sacco di cose. Me ne sono accorto solo stanotte, sai? Ho ammazzato, questo non lo nego. Questa notte ho rivissuto per tante volte i miei omicidi, lì ho... diciamo che li ho sognati --- »
+«Oh, un sacco di cose. Me ne sono accorto solo stanotte, sai? Ho ammazzato, questo non lo nego. Questa notte ho rivissuto per tante volte i miei omicidi, lì ho... diciamo che li ho sognati ---»
 
 L'uomo rise forte. «Stai confessando di essere un assassino, ma ti premuri di nascondere che tu e le tue amichette vi siete drogati stanotte?»
 

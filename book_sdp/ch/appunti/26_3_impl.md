@@ -1,10 +1,10 @@
 Il sole finalmente sorse, e la luce dell'alba inondò senza pietà il triste cimitero di Chiesanuova. Fabio strinse gli occhi e maledisse il cielo, rimuginando sulla natura della sua avversione per il sole mattutino.
 
-Un irritante stridolio proveniente dalla cappella lo riscosse dai suoi vaneggiamenti: «*Eeeeeeeeek* --- »
+Un irritante stridolio proveniente dalla cappella lo riscosse dai suoi vaneggiamenti: «*Eeeeeeeeek* ---»
 
 Un sordo *thud* lo interruppe bruscamente.
 
-« ...cazzo te strilli, CHE CAZZO TE STRILLI?! » tuonò un'altra voce impastata, più aggressiva ma assai meno irritante dell'altra.
+«...cazzo te strilli, CHE CAZZO TE STRILLI?!» tuonò un'altra voce impastata, più aggressiva ma assai meno irritante dell'altra.
 
 «I miei capelli sono un disastro...» piagnucolò quella che sicuramente era Vittoria.
 
@@ -16,7 +16,7 @@ Ci fu un altro colpo secco e lo starnazzio cessò. Dalla cappella emersero Vitto
 
 Denise sbadigliò copiosamente prima di rispondere. «Sta' zitto» biascicò, la voce distorta dallo sbadiglio. «Non sono una persona mattiniera. E comunque, buongiorno.»
 
-Vittoria prese a divincolarsi e ricominciò a stridere: «*Lasciamiiiii* --- »
+Vittoria prese a divincolarsi e ricominciò a stridere: «*Lasciamiiiii* ---»
 
 In un attimo, Denise cambiò la presa e soffocò il fastidioso lamento con un braccio. «*Buongiorno*, ho detto», scandì minacciosa, come se volesse scolpire quel concetto direttamente sul cranio di Vittoria.
 
@@ -36,7 +36,7 @@ Fabio sospirò ancora. Esitò un attimo, poi rispose quasi in un sussurro: «Mi 
 
 Vittoria le lanciò una fugace occhiata e arrossì violentemente.
 
-Fabio proseguì, apparentemente non interessato alla faccenda: «Anche io ho visto cose impossibili; è una droga allucinogena, in fondo. Ma non è quello che mi fa sentire strano. Piuttosto, è quello di cui mi sono accorto che mi turba. Ho avuto varie... intuizioni, chiamiamole così, vari assaggi di sentimenti di cui non mi ero ancora accorto. Però, se dovessi dirti che ho capito tutto, ti direi sicuramente una cazzata. »
+Fabio proseguì, apparentemente non interessato alla faccenda: «Anche io ho visto cose impossibili; è una droga allucinogena, in fondo. Ma non è quello che mi fa sentire strano. Piuttosto, è quello di cui mi sono accorto che mi turba. Ho avuto varie... intuizioni, chiamiamole così, vari assaggi di sentimenti di cui non mi ero ancora accorto. Però, se dovessi dirti che ho capito tutto, ti direi sicuramente una cazzata.»
 
 Sul volto di Denise fu chiaramente visibile il dispiacere. «Non è servito proprio a niente?», chiese con la voce piccola piccola.
 
@@ -64,7 +64,7 @@ Quando nessuna reazione arrivò, tornò serio e proseguì. «Non ce l'ho con voi
 
 Senza preavviso, Vittoria si avvicinò a Fabio e lo abbracciò. 
 
-«E' da tanto che -» disse, e la sua voce fu rotta da un violento singhiozzo. Si strinse a Fabio ancora più forte. «E' da quando sei tornato dal porto che - che lo so, e che cerco di aiutarti, ma - non sapevo che fare - poi »
+«E' da tanto che -» disse, e la sua voce fu rotta da un violento singhiozzo. Si strinse a Fabio ancora più forte. «E' da quando sei tornato dal porto che - che lo so, e che cerco di aiutarti, ma - non sapevo che fare - poi»
 
 Il sole riapparve improvvisamente.
 
